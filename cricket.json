@@ -5,15 +5,15 @@
             "matches": [
                 {
                     "name": "India vs Australia, 4th Test - Day 1",
-                    "link": "https://blog.cricfoot.net/?yosintv=india1"
+                    "link": "/"
                 },
                 {
                     "name": "India vs Australia, 4th Test - Day 2",
-                    "link": "https://blog.cricfoot.net/?yosintv=india2"
+                    "link": "/"
                 },
                 {
                     "name": "India vs Australia, 4th Test - Day 3",
-                    "link": "https://blog.cricfoot.net/?yosintv=india3"
+                    "link": "/"
                 }
             ]
         },
@@ -22,15 +22,15 @@
             "matches": [
                 {
                     "name": "Sri Lanka vs New Zealand - Match 1",
-                    "link": "https://blog.cricfoot.net/?yosintv=sl1"
+                    "link": "/"
                 },
                 {
                     "name": "Sri Lanka vs New Zealand - Match 2",
-                    "link": "https://blog.cricfoot.net/?yosintv=sl2"
+                    "link": "/"
                 },
                 {
                     "name": "Sri Lanka vs New Zealand - Match 3",
-                    "link": "https://blog.cricfoot.net/?yosintv=sl3"
+                    "link": "/"
                 }
             ]
         },
@@ -39,7 +39,7 @@
             "matches": [
                 {
                     "name": "South Africa vs Pakistan - Match 1",
-                    "link": "https://blog.cricfoot.net/?yosintv=pakistan1"
+                    "link": "/"
                 }
             ]
         },
@@ -48,7 +48,7 @@
             "matches": [
                 {
                     "name": "Zimbabwe vs Afghanistan - Match 1",
-                    "link": "https://blog.cricfoot.net/?yosintv=afghanistan1"
+                    "link": "/"
                 }
             ]
         }
