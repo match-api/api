@@ -1,53 +1,201 @@
 {
     "series": [
         {
-            "title": "India vs Australia, 4th Test",
+            "title": "Pakistan tour of South Africa 2024-25",
             "matches": [
                 {
-                    "name": "India vs Australia, 4th Test - Day 1",
+                    "name": "Link 1: Pakistan vs South Africa",
                     "link": "/"
                 },
                 {
-                    "name": "India vs Australia, 4th Test - Day 2",
+                    "name": "Link 2: Pakistan vs South Africa",
                     "link": "/"
                 },
                 {
-                    "name": "India vs Australia, 4th Test - Day 3",
+                    "name": "Link 3: Pakistan vs South Africa",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: Pakistan vs South Africa",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: Pakistan vs South Africa",
                     "link": "/"
                 }
             ]
         },
         {
-            "title": "Sri Lanka vs New Zealand",
+            "title": "Afghanistan tour of Zimbabwe 2024-25",
             "matches": [
                 {
-                    "name": "Sri Lanka vs New Zealand - Match 1",
+                    "name": "Link 1: Afghanistan vs Zimbabwe",
                     "link": "/"
                 },
                 {
-                    "name": "Sri Lanka vs New Zealand - Match 2",
+                    "name": "Link 2: Afghanistan vs Zimbabwe",
                     "link": "/"
                 },
                 {
-                    "name": "Sri Lanka vs New Zealand - Match 3",
+                    "name": "Link 3: Afghanistan vs Zimbabwe",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: Afghanistan vs Zimbabwe",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: Afghanistan vs Zimbabwe",
                     "link": "/"
                 }
             ]
         },
         {
-            "title": "South Africa vs Pakistan",
+            "title": "Sri Lanka tour of New Zealand 2024-25",
             "matches": [
                 {
-                    "name": "South Africa vs Pakistan - Match 1",
+                    "name": "Link 1: Sri Lanka vs New Zealand",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 2: Sri Lanka vs New Zealand",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 3: Sri Lanka vs New Zealand",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: Sri Lanka vs New Zealand",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: Sri Lanka vs New Zealand",
                     "link": "/"
                 }
             ]
         },
         {
-            "title": "Zimbabwe vs Afghanistan",
+            "title": "India tour of Australia 2024-25",
             "matches": [
                 {
-                    "name": "Zimbabwe vs Afghanistan - Match 1",
+                    "name": "Link 1: India vs Australia",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 2: India vs Australia",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 3: India vs Australia",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: India vs Australia",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: India vs Australia",
+                    "link": "/"
+                }
+            ]
+        },
+        {
+            "title": "Bangladesh Premier League 2024-25",
+            "matches": [
+                {
+                    "name": "Link 1: Bangladesh Premier League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 2: Bangladesh Premier League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 3: Bangladesh Premier League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: Bangladesh Premier League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: Bangladesh Premier League",
+                    "link": "/"
+                }
+            ]
+        },
+        {
+            "title": "Super Smash 2024-25",
+            "matches": [
+                {
+                    "name": "Link 1: Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 2: Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 3: Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: Super Smash",
+                    "link": "/"
+                }
+            ]
+        },
+        {
+            "title": "Womens Super Smash 2024-25",
+            "matches": [
+                {
+                    "name": "Link 1: Womens Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 2: Womens Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 3: Womens Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: Womens Super Smash",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: Womens Super Smash",
+                    "link": "/"
+                }
+            ]
+        },
+        {
+            "title": "Big Bash League 2024-25",
+            "matches": [
+                {
+                    "name": "Link 1: Big Bash League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 2: Big Bash League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 3: Big Bash League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 4: Big Bash League",
+                    "link": "/"
+                },
+                {
+                    "name": "Link 5: Big Bash League",
                     "link": "/"
                 }
             ]
