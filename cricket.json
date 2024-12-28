@@ -1,0 +1,56 @@
+{
+    "series": [
+        {
+            "title": "India vs Australia, 4th Test",
+            "matches": [
+                {
+                    "name": "India vs Australia, 4th Test - Day 1",
+                    "link": "https://blog.cricfoot.net/?yosintv=india1"
+                },
+                {
+                    "name": "India vs Australia, 4th Test - Day 2",
+                    "link": "https://blog.cricfoot.net/?yosintv=india2"
+                },
+                {
+                    "name": "India vs Australia, 4th Test - Day 3",
+                    "link": "https://blog.cricfoot.net/?yosintv=india3"
+                }
+            ]
+        },
+        {
+            "title": "Sri Lanka vs New Zealand",
+            "matches": [
+                {
+                    "name": "Sri Lanka vs New Zealand - Match 1",
+                    "link": "https://blog.cricfoot.net/?yosintv=sl1"
+                },
+                {
+                    "name": "Sri Lanka vs New Zealand - Match 2",
+                    "link": "https://blog.cricfoot.net/?yosintv=sl2"
+                },
+                {
+                    "name": "Sri Lanka vs New Zealand - Match 3",
+                    "link": "https://blog.cricfoot.net/?yosintv=sl3"
+                }
+            ]
+        },
+        {
+            "title": "South Africa vs Pakistan",
+            "matches": [
+                {
+                    "name": "South Africa vs Pakistan - Match 1",
+                    "link": "https://blog.cricfoot.net/?yosintv=pakistan1"
+                }
+            ]
+        },
+        {
+            "title": "Zimbabwe vs Afghanistan",
+            "matches": [
+                {
+                    "name": "Zimbabwe vs Afghanistan - Match 1",
+                    "link": "https://blog.cricfoot.net/?yosintv=afghanistan1"
+                }
+            ]
+        }
+    ]
+}

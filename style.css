@@ -1,0 +1,40 @@
+/* Series Title */
+.series-title {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: #d10000;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 8px;
+    font-family: system-ui;
+}
+
+/* Match Button Styling */
+.kasintv-button {
+    font-family: system-ui;
+    display: inline-block;
+    padding: 8px;
+    background-color: rgb(244, 17, 17);
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    transition: background-color 0.3s ease;
+    margin-top: 2px; /* Reduced margin to make buttons closer to each other */
+    font-weight: bold;
+}
+
+.kasintv-button:hover {
+    background-color: rgb(220, 0, 0); /* Darker red on hover */
+}
+
+.kasintv-button a {
+    text-decoration: none;
+    color: white;
+}

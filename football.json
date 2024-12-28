@@ -1,0 +1,26 @@
+{
+    "series": [
+        {
+            "title": "Premier League",
+            "matches": [
+                {
+                    "name": "Liverpool vs Manchester United",
+                    "link": "https://blog.football.net/?yosintv=liverpool_manunited"
+                },
+                {
+                    "name": "Chelsea vs Arsenal",
+                    "link": "https://blog.football.net/?yosintv=chelsea_arsenal"
+                }
+            ]
+        },
+        {
+            "title": "La Liga",
+            "matches": [
+                {
+                    "name": "Real Madrid vs Barcelona",
+                    "link": "https://blog.football.net/?yosintv=realmadrid_barcelona"
+                }
+            ]
+        }
+    ]
+}
