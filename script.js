@@ -1,7 +1,7 @@
 // Fetch and render data for cricket and football series
 Promise.all([
     fetch('cricket.json'),
-    fetch('football.json')
+    fetch('football.json'),
     fetch('jaytrophy.json')
 ])
     .then(responses => Promise.all(responses.map(response => response.json())))
