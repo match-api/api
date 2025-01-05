@@ -1,14 +1,13 @@
-// Fetch and render data for cricket and football series
 Promise.all([
     fetch('cricket.json'),
     fetch('football.json'),
-    fetch('jaytrophy.json')
+    fetch('jaytrophy.json') // Correctly fetching jaytrophy.json
 ])
     .then(responses => Promise.all(responses.map(response => response.json())))
-    .then(([cricketData, footballData]) => {
+    .then(([cricketData, footballData, jaytrophyData]) => { // Include jaytrophyData
         renderSeries(cricketData, 'kasintv-cricket');
         renderSeries(footballData, 'kasintv-football');
-        renderSeries(footballData, 'kasintv-jaytrophy');
+        renderSeries(jaytrophyData, 'kasintv-jaytrophy'); // Render using jaytrophyData
     })
     .catch(error => console.error('Error loading series data:', error));
 
@@ -35,7 +34,7 @@ function renderSeries(data, containerId) {
             seriesContainer.appendChild(matchButton);
         });
         
-        // Append the series section to the appropriate container (cricket or football)
+        // Append the series section to the appropriate container
         container.appendChild(seriesContainer);
     });
 }
