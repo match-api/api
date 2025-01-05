@@ -1,54 +1,33 @@
 {
     "series": [
         {
-            "title": "Pakistan tour of South Africa 2024-25",
+            "title": "Jay Trophy 2025",
             "matches": [
                 {
-                    "name": "Link 1: Pakistan vs South Africa",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://topembed.pw/channel/Fox501[Australia]"
+                    "name": "Link 1: Nepal Police Club vs Tribhuwan Army Club",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch40"
                 },
                 {
-                    "name": "Link 2: Pakistan vs South Africa",
+                    "name": "Link 2: Nepal Police Club vs Tribhuwan Army Club",
                     "link": "https://whomeenoaglauns.com/4/8683501"
                 },
                 {
-                    "name": "Link 3: Pakistan vs South Africa",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://topembed.pw/channel/SkySportsCricket[UK]"
-                },
-                {
-                    "name": "Link 4: Pakistan vs South Africa",
+                    "name": "Link 2: Nepal Police Club vs Tribhuwan Army Club",
                     "link": "https://whomeenoaglauns.com/4/8683501"
                 },
                 {
-                    "name": "Link 5: Pakistan vs South Africa",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://topembed.pw/channel/SuperSportGrandstand[SouthAfrica]"
-                }
-            ]
-        },
-        {
-            "title": "Afghanistan tour of Zimbabwe 2024-25",
-            "matches": [
-                {
-                    "name": "Link 1: Afghanistan vs Zimbabwe",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch36"
+                    "name": "Link 3: Bagmati Province vs Madhesh Province",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch42"
                 },
                 {
-                    "name": "Link 2: Afghanistan vs Zimbabwe",
+                    "name": "Link 4: Bagmati Province vs Madhesh Province",
                     "link": "https://whomeenoaglauns.com/4/8683501"
                 },
                 {
-                    "name": "Link 3: Afghanistan vs Zimbabwe",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch38"
-                },
-                {
-                    "name": "Link 4: Afghanistan vs Zimbabwe",
-                    "link": "https://whomeenoaglauns.com/4/8683501"
-                },
-                {
-                    "name": "Link 5: Afghanistan vs Zimbabwe",
+                    "name": "Link 5: Bagmati Province vs Madhesh Province",
                     "link": "https://whomeenoaglauns.com/4/8683501"
                 }
             ]
         }
-            ]
-        }
+    ]
+}
