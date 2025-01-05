@@ -2,6 +2,7 @@
 Promise.all([
     fetch('cricket.json'),
     fetch('football.json')
+    fetch('jaytrophy.json')
 ])
     .then(responses => Promise.all(responses.map(response => response.json())))
     .then(([cricketData, footballData]) => {
