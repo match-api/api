@@ -7,6 +7,7 @@ Promise.all([
     .then(([cricketData, footballData]) => {
         renderSeries(cricketData, 'kasintv-cricket');
         renderSeries(footballData, 'kasintv-football');
+        renderSeries(footballData, 'kasintv-jaytrophy');
     })
     .catch(error => console.error('Error loading series data:', error));
 
