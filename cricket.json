@@ -25,6 +25,7 @@
                 }
             ]
         },
+        
 
         {
             "title": "India v England 2025",
@@ -52,7 +53,31 @@
             ]
         },
 
-
+ {
+            "title": "Sri Lanka vs Australia",
+            "matches": [
+                {
+                    "name": "Link 1: Sri Lanka vs Australia",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/l/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
+                },
+                {
+                    "name": "Link 2: Sri Lanka vs Australia",
+                    "link": "https://poawooptugroo.com/4/8725302"
+                },
+                {
+                    "name": "Link 3: Sri Lanka vs Australia",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/w/play.php?id=115615"
+                },
+                {
+                    "name": "Link 4: Sri Lanka vs Australia",
+                    "link": "https://poawooptugroo.com/4/8725302"
+                },
+                {
+                    "name": "Link 5: Sri Lanka vs Australia",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
+                }
+            ]
+        },
 
         
         {
