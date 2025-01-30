@@ -1,31 +1,6 @@
 {
     "series": [
-        {
-            "title": "West Indies tour of Pakistan 2025",
-            "matches": [
-                {
-                    "name": "Link 1: West Indies vs Pakistan",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=willow"
-                },
-                {
-                    "name": "Link 2: West Indies vs Pakistan",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 3: West Indies vs Pakistan",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=tensp"
-                },
-                {
-                    "name": "Link 4: West Indies vs Pakistan",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 5: West Indies vs Pakistan",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=asports"
-                }
-            ]
-        },
-        
+       
 
         {
             "title": "India v England 2025",
@@ -105,80 +80,7 @@
                 }
             ]
         },
-        {
-            "title": "Super Smash 2024-25",
-            "matches": [
-                {
-                    "name": "Link 1: Super Smash",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=btsp2"
-                },
-                {
-                    "name": "Link 2: Super Smash",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 3: Super Smash",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=btsp2"
-                },
-                {
-                    "name": "Link 4: Super Smash",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 5: Super Smash",
-                    "link": "https://whomeenoaglauns.com/4/8683501"
-                }
-            ]
-        },
-        {
-            "title": "Womens Super Smash 2024-25",
-            "matches": [
-                {
-                    "name": "Link 1: Womens Super Smash",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=btsp3"
-                },
-                {
-                    "name": "Link 2: Womens Super Smash",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 3: Womens Super Smash",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=btsp2"
-                },
-                {
-                    "name": "Link 4: Womens Super Smash",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 5: Womens Super Smash",
-                    "link": "https://whomeenoaglauns.com/4/8683501"
-                }
-            ]
-        },
-        {
-            "title": "Big Bash League 2024-25",
-            "matches": [
-                {
-                    "name": "Link 1: Big Bash League",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=willowextra"
-                },
-                {
-                    "name": "Link 2: Big Bash League",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 3: Big Bash League",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=starsp2"
-                },
-                {
-                    "name": "Link 4: Big Bash League",
-                    "link": "https://poawooptugroo.com/4/8725302"
-                },
-                {
-                    "name": "Link 5: Big Bash League",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=skymix"
-                }
-            ]
-        }
+        
+       
     ]
 }
