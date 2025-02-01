@@ -13,16 +13,9 @@ const seriesData = [
 
 // Fetch and render data for each series
 seriesData.forEach(series => {
-    console.log(`Fetching data from: ${series.file}`);
     fetch(series.file)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            return response.json();
-        })
+        .then(response => response.json())
         .then(data => {
-            console.log(`Data fetched for ${series.title}:`, data);
             renderSeries(data, series.id, series.title);
         })
         .catch(error => console.error(`Error loading ${series.title}:`, error));
