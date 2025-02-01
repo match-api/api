@@ -46,3 +46,6 @@ function renderSeries(data, containerId, seriesTitle) {
         container.appendChild(seriesContainer);
     });
 }
+ // Update every second
+ setInterval(updateStatus, 1000);
+ updateStatus();
