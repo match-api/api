@@ -1,6 +1,7 @@
 // List of JSON files to fetch (You can add other JSON files similarly)
 const seriesData = [
-    { id: 'cricket-series', file: 'cricket.json', title: 'Cricket Series' },
+    { id: 'cricket-series', file: 'cricket.json', title: 'Cricket Matches' },
+    { id: 'football-series', file: 'football.json', title: 'Football Matches' },
     // Add other series data files if needed
 ];
 
