@@ -52,11 +52,18 @@ function renderSeries(data, containerId) {
         // Remove duplicate matches based on the link
         const uniqueMatches = removeDuplicateMatches(series.matches);
 
-        // Loop through unique matches and create buttons
+        // Loop through unique matches and create buttons or links
         uniqueMatches.forEach(match => {
+            const matchLink = document.createElement('a');
+            matchLink.href = match.link;
+            matchLink.target = '_blank';
+            matchLink.classList.add('kasintv-link');  // Add a class for styling
+            matchLink.textContent = match.name;      // Display match name
+            
+            // Create a button or just append the link directly
             const matchButton = document.createElement('button');
             matchButton.classList.add('kasintv-button');
-            matchButton.innerHTML = `<a href="${match.link}" target="_blank">${match.name}</a>`;
+            matchButton.appendChild(matchLink); // Append the link inside the button
             seriesContainer.appendChild(matchButton);
         });
         
