@@ -1,73 +1,66 @@
-Promise.all([
-    fetch('cricket.json'),
-    fetch('football.json'),
-    fetch('jaytrophy.json') // Fetching Jay Trophy series
-])
-    .then(responses => {
-        // Check if any of the responses failed
-        if (!responses.every(response => response.ok)) {
-            throw new Error('One or more resources failed to load.');
-        }
-        return Promise.all(responses.map(response => response.json()));
-    })
-    .then(([cricketData, footballData, jaytrophyData]) => { 
-        renderSeries(cricketData, 'kasintv-cricket');
-        renderSeries(footballData, 'kasintv-football');
-        renderSeries(jaytrophyData, 'kasintv-jaytrophy'); // Rendering Jay Trophy series
-    })
-    .catch(error => console.error('Error loading series data:', error));
+// List of leagues and their corresponding JSON files
+const leagues = [
+    { id: 'yosintv-cricket', file: 'cricket.json', title: 'Cricket' },
+    { id: 'yosintv-cleague', file: 'cleague.json', title: 'Leagues' },
+    { id: 'yosintv-npl', file: 'npl.json', title: 'NPL T20' },
+    { id: 'yosintv-ucl', file: 'ucl.json', title: 'Champions League' },
+    { id: 'yosintv-football', file: 'football.json', title: 'Football' },
+    { id: 'yosintv-epl', file: 'epl.json', title: 'EPL' },
+    { id: 'yosintv-laliga', file: 'laliga.json', title: 'La Liga' },
+    { id: 'yosintv-seriea', file: 'seriea.json', title: 'Serie A' },
+    { id: 'yosintv-ligue1', file: 'ligue1.json', title: 'Ligue 1' },
+    { id: 'yosintv-bundesliga', file: 'bundesliga.json', title: 'Bundesliga' }
+];
 
-// Remove duplicates based on the link property
-function removeDuplicateMatches(matches) {
-    const uniqueLinks = new Set();
-    return matches.filter(match => {
-        if (uniqueLinks.has(match.link)) {
-            return false; // Skip the match if the link is a duplicate
-        }
-        uniqueLinks.add(match.link); // Add the link to the set to track it
-        return true;
-    });
-}
+// Fetch and render data for each league
+leagues.forEach(league => {
+    fetch(league.file)
+        .then(response => response.json())
+        .then(data => {
+            renderSeries(data, league.id, league.title);
+        })
+        .catch(error => console.error(`Error loading ${league.title} series:`, error));
+});
 
-// Render series and matches
-function renderSeries(data, containerId) {
+// Render a league's series
+function renderSeries(data, containerId, leagueTitle) {
     const container = document.getElementById(containerId);
-    
-    if (!container) {
-        console.error(`Container with ID ${containerId} not found.`);
+
+    // Add league title
+    const titleElement = document.createElement('div');
+    titleElement.classList.add('league-title');
+    titleElement.textContent = `${leagueTitle} Series`;
+    container.appendChild(titleElement);
+
+    // Check if series are available
+    if (!data.series || data.series.length === 0) {
+        const noSeriesMessage = document.createElement('p');
+        noSeriesMessage.textContent = `No ${leagueTitle} Series Today`;
+        container.appendChild(noSeriesMessage);
         return;
     }
 
-    data.series.forEach(series => {
-        // Create a section for each series
-        const seriesContainer = document.createElement('div');
-        seriesContainer.classList.add('series-container');
-        
-        // Add series title
-        const seriesTitle = document.createElement('h3');
-        seriesTitle.classList.add('series-title');
-        seriesTitle.textContent = series.title;
-        seriesContainer.appendChild(seriesTitle);
-        
-        // Remove duplicate matches based on the link
-        const uniqueMatches = removeDuplicateMatches(series.matches);
-
-        // Loop through unique matches and create buttons or links
-        uniqueMatches.forEach(match => {
-            const matchLink = document.createElement('a');
-            matchLink.href = match.link;
-            matchLink.target = '_blank';
-            matchLink.classList.add('kasintv-link');  // Add a class for styling
-            matchLink.textContent = match.name;      // Display match name
-            
-            // Create a button or just append the link directly
-            const matchButton = document.createElement('button');
-            matchButton.classList.add('kasintv-button');
-            matchButton.appendChild(matchLink); // Append the link inside the button
-            seriesContainer.appendChild(matchButton);
-        });
-        
-        // Append the series section to the appropriate container
-        container.appendChild(seriesContainer);
+    // Loop through series and render them
+    data.series.forEach(serie => {
+        renderSingleSeries(serie, container);
     });
+}
+
+// Render individual series
+function renderSingleSeries(serie, container) {
+    const seriesElement = document.createElement('div');
+    seriesElement.classList.add('series');
+    seriesElement.setAttribute('data-link', serie.link);
+
+    const seriesName = document.createElement('div');
+    seriesName.classList.add('series-name');
+    seriesName.textContent = serie.name;
+
+    seriesElement.appendChild(seriesName);
+    container.appendChild(seriesElement);
+
+    // Add onclick to open the series link
+    seriesElement.onclick = function () {
+        window.location.href = serie.link;
+    };
 }
