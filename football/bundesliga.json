@@ -1,6 +1,5 @@
 {
     "series": [
-
         {
             "title": "Bayern Munich v Holstein Kiel 2025",
             "matches": [
@@ -76,98 +75,80 @@
                 }
             ]
         },
-        [
-            {
-                "title": "St. Pauli v Augsburg 2025",
-                "matches": [
-                    {
-                        "name": "Link 1: St. Pauli v Augsburg",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
-                    },
-                    {
-                        "name": "Link 2: St. Pauli v Augsburg",
-                        "link": "https://tinyurl.com/67rd7e2j"
-                    },
-                    {
-                        "name": "Link 3: St. Pauli v Augsburg",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
-                    },
-                    {
-                        "name": "Link 4: St. Pauli v Augsburg",
-                        "link": "https://tinyurl.com/67rd7e2j"
-                    },
-                    {
-                        "name": "Link 5: St. Pauli v Augsburg",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
-                    }
-                ]
-            },
-            {
-                "title": "Stuttgart v Borussia Mönchengladbach 2025",
-                "matches": [
-                    {
-                        "name": "Link 1: Stuttgart v Borussia Mönchengladbach",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
-                    },
-                    {
-                        "name": "Link 2: Stuttgart v Borussia Mönchengladbach",
-                        "link": "https://tinyurl.com/67rd7e2j"
-                    },
-                    {
-                        "name": "Link 3: Stuttgart v Borussia Mönchengladbach",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
-                    },
-                    {
-                        "name": "Link 4: Stuttgart v Borussia Mönchengladbach",
-                        "link": "https://tinyurl.com/67rd7e2j"
-                    },
-                    {
-                        "name": "Link 5: Stuttgart v Borussia Mönchengladbach",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
-                    }
-                ]
-            },
-            {
-                "title": "Union Berlin v RB Leipzig 2025",
-                "matches": [
-                    {
-                        "name": "Link 1: Union Berlin v RB Leipzig",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
-                    },
-                    {
-                        "name": "Link 2: Union Berlin v RB Leipzig",
-                        "link": "https://tinyurl.com/67rd7e2j"
-                    },
-                    {
-                        "name": "Link 3: Union Berlin v RB Leipzig",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
-                    },
-                    {
-                        "name": "Link 4: Union Berlin v RB Leipzig",
-                        "link": "https://tinyurl.com/67rd7e2j"
-                    },
-                    {
-                        "name": "Link 5: Union Berlin v RB Leipzig",
-                        "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
-                    }
-                ]
-            }
-        ]
-        
-        
-        
-
-        
-
-
-
-
-
-
-
-
-
-
-
+        {
+            "title": "St. Pauli v Augsburg 2025",
+            "matches": [
+                {
+                    "name": "Link 1: St. Pauli v Augsburg",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
+                },
+                {
+                    "name": "Link 2: St. Pauli v Augsburg",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 3: St. Pauli v Augsburg",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
+                },
+                {
+                    "name": "Link 4: St. Pauli v Augsburg",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 5: St. Pauli v Augsburg",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
+                }
+            ]
+        },
+        {
+            "title": "Stuttgart v Borussia Mönchengladbach 2025",
+            "matches": [
+                {
+                    "name": "Link 1: Stuttgart v Borussia Mönchengladbach",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
+                },
+                {
+                    "name": "Link 2: Stuttgart v Borussia Mönchengladbach",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 3: Stuttgart v Borussia Mönchengladbach",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
+                },
+                {
+                    "name": "Link 4: Stuttgart v Borussia Mönchengladbach",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 5: Stuttgart v Borussia Mönchengladbach",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
+                }
+            ]
+        },
+        {
+            "title": "Union Berlin v RB Leipzig 2025",
+            "matches": [
+                {
+                    "name": "Link 1: Union Berlin v RB Leipzig",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
+                },
+                {
+                    "name": "Link 2: Union Berlin v RB Leipzig",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 3: Union Berlin v RB Leipzig",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
+                },
+                {
+                    "name": "Link 4: Union Berlin v RB Leipzig",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 5: Union Berlin v RB Leipzig",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
+                }
+            ]
+        }
     ]
 }
