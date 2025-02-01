@@ -1,3 +1,4 @@
+// Add other series data files if needed
 // List of JSON files to fetch (You can add other JSON files similarly)
 const seriesData = [
     { id: 'cricket', file: 'cricket/cricket.json' },
@@ -9,11 +10,19 @@ const seriesData = [
     // Add other series data files if needed
 ];
 
+
 // Fetch and render data for each series
 seriesData.forEach(series => {
+    console.log(`Fetching data from: ${series.file}`);
     fetch(series.file)
-        .then(response => response.json())
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
         .then(data => {
+            console.log(`Data fetched for ${series.title}:`, data);
             renderSeries(data, series.id, series.title);
         })
         .catch(error => console.error(`Error loading ${series.title}:`, error));
@@ -46,6 +55,7 @@ function renderSeries(data, containerId, seriesTitle) {
         container.appendChild(seriesContainer);
     });
 }
- // Update every second
- setInterval(updateStatus, 1000);
- updateStatus();
+
+// Update every second
+setInterval(updateStatus, 1000);
+updateStatus();
