@@ -1,66 +1,49 @@
-// List of leagues and their corresponding JSON files
-const leagues = [
-    { id: 'kasintv-cricket', file: 'cricket.json', title: 'Cricket' },
-    { id: 'yosintv-cleague', file: 'cleague.json', title: 'Leagues' },
-    { id: 'yosintv-npl', file: 'npl.json', title: 'NPL T20' },
-    { id: 'yosintv-ucl', file: 'ucl.json', title: 'Champions League' },
-    { id: 'kasintv-football', file: 'football.json', title: 'Football' },
-    { id: 'yosintv-epl', file: 'epl.json', title: 'EPL' },
-    { id: 'yosintv-laliga', file: 'laliga.json', title: 'La Liga' },
-    { id: 'yosintv-seriea', file: 'seriea.json', title: 'Serie A' },
-    { id: 'yosintv-ligue1', file: 'ligue1.json', title: 'Ligue 1' },
-    { id: 'yosintv-bundesliga', file: 'bundesliga.json', title: 'Bundesliga' }
+// List of JSON files to fetch (You can add other JSON files similarly)
+const seriesData = [
+    { id: 'cricket-series', file: 'cricket.json', title: 'Cricket Series' },
+    // Add other series data files if needed
 ];
 
-// Fetch and render data for each league
-leagues.forEach(league => {
-    fetch(league.file)
+// Fetch and render data for each series
+seriesData.forEach(series => {
+    fetch(series.file)
         .then(response => response.json())
         .then(data => {
-            renderSeries(data, league.id, league.title);
+            renderSeries(data, series.id, series.title);
         })
-        .catch(error => console.error(`Error loading ${league.title} series:`, error));
+        .catch(error => console.error(`Error loading ${series.title}:`, error));
 });
 
-// Render a league's series
-function renderSeries(data, containerId, leagueTitle) {
+// Render series with matches
+function renderSeries(data, containerId, seriesTitle) {
     const container = document.getElementById(containerId);
 
-    // Add league title
-    const titleElement = document.createElement('div');
-    titleElement.classList.add('league-title');
-    titleElement.textContent = `${leagueTitle} Series`;
+    // Add series title
+    const titleElement = document.createElement('h2');
+    titleElement.classList.add('series-title');
+    titleElement.textContent = `${seriesTitle} Matches`;
     container.appendChild(titleElement);
 
-    // Check if series are available
-    if (!data.series || data.series.length === 0) {
-        const noSeriesMessage = document.createElement('p');
-        noSeriesMessage.textContent = `No ${leagueTitle} Series Today`;
-        container.appendChild(noSeriesMessage);
-        return;
-    }
+    // Loop through series and render matches
+    data.series.forEach(series => {
+        const seriesContainer = document.createElement('div');
+        seriesContainer.classList.add('series-container');
 
-    // Loop through series and render them
-    data.series.forEach(serie => {
-        renderSingleSeries(serie, container);
+        // Add series name/title
+        const seriesName = document.createElement('h3');
+        seriesName.classList.add('series-name');
+        seriesName.textContent = series.title;
+        seriesContainer.appendChild(seriesName);
+
+        // Loop through matches and create buttons/links
+        series.matches.forEach(match => {
+            const matchButton = document.createElement('button');
+            matchButton.classList.add('kasintv-button');
+            matchButton.innerHTML = `<a href="${match.link}" target="_blank">${match.name}</a>`;
+            seriesContainer.appendChild(matchButton);
+        });
+
+        // Append the series section to the container
+        container.appendChild(seriesContainer);
     });
-}
-
-// Render individual series
-function renderSingleSeries(serie, container) {
-    const seriesElement = document.createElement('div');
-    seriesElement.classList.add('series');
-    seriesElement.setAttribute('data-link', serie.link);
-
-    const seriesName = document.createElement('div');
-    seriesName.classList.add('series-name');
-    seriesName.textContent = serie.name;
-
-    seriesElement.appendChild(seriesName);
-    container.appendChild(seriesElement);
-
-    // Add onclick to open the series link
-    seriesElement.onclick = function () {
-        window.location.href = serie.link;
-    };
 }
