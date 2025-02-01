@@ -1,86 +1,154 @@
 {
     "series": [
-       
-
         {
-            "title": "India v England 2025",
+            "title": "Premier League",
             "matches": [
                 {
-                    "name": "Link 1: India v England",
+                    "name": "Link 1: Bournemouth vs Liverpool",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
                 },
                 {
-                    "name": "Link 2: India v England",
+                    "name": "Link 2: Bournemouth vs Liverpool",
                     "link": "https://tinyurl.com/67rd7e2j"
                 },
                 {
-                    "name": "Link 3: India v England",
+                    "name": "Link 3: Bournemouth vs Liverpool",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
                 },
                 {
-                    "name": "Link 4: India v England",
+                    "name": "Link 4: Bournemouth vs Liverpool",
                     "link": "https://tinyurl.com/67rd7e2j"
                 },
                 {
-                    "name": "Link 5: India v England",
+                    "name": "Link 5: Bournemouth vs Liverpool",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
                 }
             ]
         },
-
- {
-            "title": "Sri Lanka vs Australia",
+        {
+            "title": "Premier League",
             "matches": [
                 {
-                    "name": "Link 1: Sri Lanka vs Australia",
+                    "name": "Link 1: Nottingham vs Brighton",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/l/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
                 },
                 {
-                    "name": "Link 2: Sri Lanka vs Australia",
+                    "name": "Link 2: Nottingham vs Brighton",
                     "link": "https://tinyurl.com/67rd7e2j"
                 },
                 {
-                    "name": "Link 3: Sri Lanka vs Australia",
+                    "name": "Link 3: Nottingham vs Brighton",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/w/play.php?id=115615"
                 },
                 {
-                    "name": "Link 4: Sri Lanka vs Australia",
+                    "name": "Link 4: Nottingham vs Brighton",
                     "link": "https://tinyurl.com/67rd7e2j"
                 },
                 {
-                    "name": "Link 5: Sri Lanka vs Australia",
+                    "name": "Link 5: Nottingham vs Brighton",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
                 }
             ]
         },
-
-        
         {
-            "title": "Bangladesh Premier League",
+            "title": "Premier League",
             "matches": [
                 {
-                    "name": "Link 1: Bangladesh Premier League",
+                    "name": "Link 1: Everton vs Leicester",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch39"
                 },
                 {
-                    "name": "Link 2: Bangladesh Premier League",
+                    "name": "Link 2: Everton vs Leicester",
                     "link": "https://tinyurl.com/67rd7e2j"
                 },
                 {
-                    "name": "Link 3: Bangladesh Premier League",
+                    "name": "Link 3: Everton vs Leicester",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=gtv"
                 },
                 {
-                    "name": "Link 4: Bangladesh Premier League",
+                    "name": "Link 4: Everton vs Leicester",
                     "link": "https://tinyurl.com/67rd7e2j"
                 },
                 {
-                    "name": "Link 5: Bangladesh Premier League",
+                    "name": "Link 5: Everton vs Leicester",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch39"
+                }
+            ]
+        },
+        {
+            "title": "Premier League",
+            "matches": [
+                {
+                    "name": "Link 1: Ipswich Town vs Southampton",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
+                },
+                {
+                    "name": "Link 2: Ipswich Town vs Southampton",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 3: Ipswich Town vs Southampton",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
+                },
+                {
+                    "name": "Link 4: Ipswich Town vs Southampton",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 5: Ipswich Town vs Southampton",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=4"
+                }
+            ]
+        },
+        {
+            "title": "Premier League",
+            "matches": [
+                {
+                    "name": "Link 1: Newcastle vs Fulham",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/l/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
+                },
+                {
+                    "name": "Link 2: Newcastle vs Fulham",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 3: Newcastle vs Fulham",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/w/play.php?id=115615"
+                },
+                {
+                    "name": "Link 4: Newcastle vs Fulham",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 5: Newcastle vs Fulham",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
+                }
+            ]
+        },
+        {
+            "title": "Premier League",
+            "matches": [
+                {
+                    "name": "Link 1: Wolves vs Aston Villa",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch39"
+                },
+                {
+                    "name": "Link 2: Wolves vs Aston Villa",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 3: Wolves vs Aston Villa",
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=gtv"
+                },
+                {
+                    "name": "Link 4: Wolves vs Aston Villa",
+                    "link": "https://tinyurl.com/67rd7e2j"
+                },
+                {
+                    "name": "Link 5: Wolves vs Aston Villa",
                     "link": "https://match-api.github.io/match/player/hls.html?id=https://cdn.crichdplays.ru/embed2.php?id=spch39"
                 }
             ]
         }
-        
-       
     ]
 }
