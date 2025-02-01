@@ -1,5 +1,8 @@
-/* Series Title */
-.series-title {
+.series-container {
+    margin-bottom: 20px;
+}
+
+.series-name {
     font-size: 15px;
     font-weight: bold;
     margin-top: 20px;
@@ -11,9 +14,8 @@
     font-family: system-ui;
 }
 
-/* Match Button Styling */
 .kasintv-button {
-    font-family: system-ui;
+   font-family: system-ui;
     display: inline-block;
     padding: 8px;
     background-color: rgb(244, 17, 17);
@@ -30,11 +32,22 @@
     font-weight: bold;
 }
 
-.kasintv-button:hover {
-    background-color: rgb(220, 0, 0); /* Darker red on hover */
-}
-
 .kasintv-button a {
     text-decoration: none;
     color: white;
 }
+
+.kasintv-button:hover {
+    background-color: rgb(220, 0, 0); /* Darker red on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
