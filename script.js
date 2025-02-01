@@ -1,7 +1,7 @@
 // List of JSON files to fetch (You can add other JSON files similarly)
 const seriesData = [
-    { id: 'cricket-series', file: 'cricket.json', title: 'Cricket Matches' },
-    { id: 'football-series', file: 'football.json', title: 'Football Matches' },
+    { id: 'cricket-series', file: 'cricket.json',  },
+    { id: 'football-series', file: 'football.json', },
     // Add other series data files if needed
 ];
 
@@ -22,7 +22,7 @@ function renderSeries(data, containerId, seriesTitle) {
     // Add series title
     const titleElement = document.createElement('h2');
     titleElement.classList.add('series-title');
-    titleElement.textContent = `${seriesTitle} Matches`;
+    titleElement.textContent = `${seriesTitle}`;
     container.appendChild(titleElement);
 
     // Loop through series and render matches
