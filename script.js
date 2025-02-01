@@ -19,12 +19,6 @@ seriesData.forEach(series => {
 function renderSeries(data, containerId, seriesTitle) {
     const container = document.getElementById(containerId);
 
-    // Add series title
-    const titleElement = document.createElement('h2');
-    titleElement.classList.add('series-title');
-    titleElement.textContent = `${seriesTitle}`;
-    container.appendChild(titleElement);
-
     // Loop through series and render matches
     data.series.forEach(series => {
         const seriesContainer = document.createElement('div');
