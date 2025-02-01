@@ -3,7 +3,13 @@ Promise.all([
     fetch('football.json'),
     fetch('jaytrophy.json') // Fetching Jay Trophy series
 ])
-    .then(responses => Promise.all(responses.map(response => response.json())))
+    .then(responses => {
+        // Check if any of the responses failed
+        if (!responses.every(response => response.ok)) {
+            throw new Error('One or more resources failed to load.');
+        }
+        return Promise.all(responses.map(response => response.json()));
+    })
     .then(([cricketData, footballData, jaytrophyData]) => { 
         renderSeries(cricketData, 'kasintv-cricket');
         renderSeries(footballData, 'kasintv-football');
@@ -26,6 +32,11 @@ function removeDuplicateMatches(matches) {
 // Render series and matches
 function renderSeries(data, containerId) {
     const container = document.getElementById(containerId);
+    
+    if (!container) {
+        console.error(`Container with ID ${containerId} not found.`);
+        return;
+    }
 
     data.series.forEach(series => {
         // Create a section for each series
