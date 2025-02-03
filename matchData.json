@@ -22,25 +22,25 @@
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://www.youtube.com/embed/stream"
+      "url": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
     },
     {
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+      "url": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
     },
     {
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+      "url": "https://match-api.github.io/match/player/hls.html?id=https://rips.in/player.php?ch=6"
     },
     {
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://www.youtube.com/embed/_r0jMBjRajY"
+      "url": "https://match-api.github.io/match/player/hls.html?id=https://pstvlive.xyz/ps/t.php?id=tnt1"
     }
   ]
 },
