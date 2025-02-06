@@ -1,1 +1,20 @@
+[
+    {
+        "id": "bpl2024-01",
+        "league": "BPL",
+        "title": "Bangladesh Premier League",
+        "subtitle": "BPL T20",
+        "startTime": "2025-02-06T14:00:00",
+        "endTime": "2025-02-15T18:00:00",
+        "leagueLogo": "https://bplt20.com.bd/extra-images/bpl-logo.png",
+        "description": "Bangladesh Premier League 2024 - Qualifier 1",
+        "venue": "Shere Bangla National Stadium, Dhaka",
+        "streamLinks": [
+            { "name": "Stream 1 HD", "quality": "1080p", "url": "#" },
+            { "name": "Stream 2 HD", "quality": "720p", "url": "#" },
+            { "name": "Stream 3", "quality": "480p", "url": "#" },
+            { "name": "Mobile Stream", "quality": "360p", "url": "#" }
+        ]
+    }
+]
 
