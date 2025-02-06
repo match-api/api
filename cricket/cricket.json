@@ -33,7 +33,7 @@
             "matches": [
                 {
                     "name": "Link 1: Sri Lanka vs Australia",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/l/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/w/play.php?id=115616"
                 },
                 {
                     "name": "Link 2: Sri Lanka vs Australia",
@@ -41,7 +41,7 @@
                 },
                 {
                     "name": "Link 3: Sri Lanka vs Australia",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/w/play.php?id=115615"
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/play.php?url=https://ml-pull-cdn-live.pstvplaylive.online/hls/live/7plus/master.m3u8"
                 },
                 {
                     "name": "Link 4: Sri Lanka vs Australia",
@@ -49,7 +49,7 @@
                 },
                 {
                     "name": "Link 5: Sri Lanka vs Australia",
-                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/play.php?url=https://www.pstvplaylive.online/ps_7.m3u8?m3u8=ps_7plus"
+                    "link": "https://match-api.github.io/match/player/hls.html?id=https://fc.pstvlive.xyz/play.php?url=https://ml-pull-cdn-live.pstvplaylive.online/hls/live/7mate/master.m3u8"
                 }
             ]
         },
