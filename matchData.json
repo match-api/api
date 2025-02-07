@@ -12,12 +12,42 @@
       },
       "league": "IND vs ENG",
       "sport": "cricket",
-      "date": "2025-02-06",
+      "date": "2025-02-09",
       "time": "1:45 PM",
       "venue": "VCA Stadium",
-      "startTime": "2025-02-06T13:45:00",
-      "endTime": "2025-02-13T19:00:00",
+      "startTime": "2025-02-09T13:45:00",
+      "endTime": "2025-02-09T19:00:00",
       "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
         {
           "title": "Watch Now",
           "language": "English",
@@ -49,6 +79,36 @@
           "language": "English",
           "quality": "1080p",
           "url": "https://www.youtube.com/embed/watchlive"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
         }
       ]
     },
@@ -62,19 +122,49 @@
         "name": "New Zealand",
         "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
       },
-      "league": "PAK vs NZ",
+      "league": "PAK Tri-Series 2025",
       "sport": "cricket",
-      "date": "2025-02-07",
-      "time": "3:00 PM",
-      "venue": "National Stadium Karachi",
-      "startTime": "2025-02-07T15:00:00",
-      "endTime": "2025-02-14T19:30:00",
+      "date": "2025-02-08",
+      "time": "2:45 PM",
+      "venue": "Gaddafi Stadium, Lahore",
+      "startTime": "2025-02-08T14:45:00",
+      "endTime": "2025-02-08T21:00:00",
       "streams": [
         {
           "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
           "url": "https://sportsstreaming.live/pakvsnz"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
         }
       ]
     },
@@ -85,24 +175,562 @@
         "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
       },
       "awayTeam": {
-        "name": "West Indies",
-        "logo": "https://aimages.willow.tv/teamLogos/westindies.png"
+        "name": "New Zealand",
+        "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
       },
-      "league": "SA vs WI",
+      "league": "PAK Tri-Series 2025",
+      "sport": "cricket",
+      "date": "2025-02-10",
+      "time": "10:15 AM",
+      "venue": "Gaddafi Stadium, Lahore",
+      "startTime": "2025-02-10T10:15:00",
+      "endTime": "2025-02-10T18:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/pakvsnz"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "114",
+      "homeTeam": {
+        "name": "Pakistan",
+        "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
+      },
+      "awayTeam": {
+        "name": "South Africa",
+        "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
+      },
+      "league": "PAK Tri-Series 2025",
       "sport": "cricket",
       "date": "2025-02-08",
-      "time": "4:30 PM",
-      "venue": "Newlands Cricket Ground",
-      "startTime": "2025-02-08T16:30:00",
-      "endTime": "2025-02-15T22:00:00",
+      "time": "2:45 PM",
+      "venue": "National Stadium, Karachi",
+      "startTime": "2025-02-12T14:45:00",
+      "endTime": "2025-02-12T21:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/pakvsnz"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "115",
+      "homeTeam": {
+        "name": "TBC F",
+        "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
+      },
+      "awayTeam": {
+        "name": "TBC F",
+        "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
+      },
+      "league": "PAK Tri-Series 2025",
+      "sport": "cricket",
+      "date": "2025-02-14",
+      "time": "2:15 PM",
+      "venue": "National Stadium, Karachi",
+      "startTime": "2025-02-14T14:15:00",
+      "endTime": "2025-02-14T21:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "/"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "/"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "/"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "/"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "/"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "id": "116",
+      "homeTeam": {
+        "name": "Ireland",
+        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
+      },
+      "awayTeam": {
+        "name": "Zimbabwe",
+        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
+      },
+      "league": "IRE vs ZIM 2025",
+      "sport": "cricket",
+      "date": "2025-02-06",
+      "time": "1:45 PM",
+      "venue": "Queens Sports Club, Bulawayo",
+      "startTime": "2025-02-06T13:45:00",
+      "endTime": "2025-02-14T00:00:00",
       "streams": [
         {
           "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
           "url": "https://sportsstreaming.live/savswi"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "117",
+      "homeTeam": {
+        "name": "Ireland",
+        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
+      },
+      "awayTeam": {
+        "name": "Zimbabwe",
+        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
+      },
+      "league": "IRE vs ZIM 2025",
+      "sport": "cricket",
+      "date": "2025-02-06",
+      "time": "1:45 PM",
+      "venue": "Queens Sports Club, Bulawayo",
+      "startTime": "2025-02-06T13:45:00",
+      "endTime": "2025-02-14T00:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/savswi"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "118",
+      "homeTeam": {
+        "name": "Ireland",
+        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
+      },
+      "awayTeam": {
+        "name": "Zimbabwe",
+        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
+      },
+      "league": "IRE vs ZIM 2025",
+      "sport": "cricket",
+      "date": "2025-02-06",
+      "time": "1:45 PM",
+      "venue": "Queens Sports Club, Bulawayo",
+      "startTime": "2025-02-06T13:45:00",
+      "endTime": "2025-02-14T00:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/savswi"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "119",
+      "homeTeam": {
+        "name": "Ireland",
+        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
+      },
+      "awayTeam": {
+        "name": "Zimbabwe",
+        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
+      },
+      "league": "IRE vs ZIM 2025",
+      "sport": "cricket",
+      "date": "2025-02-06",
+      "time": "1:45 PM",
+      "venue": "Queens Sports Club, Bulawayo",
+      "startTime": "2025-02-06T13:45:00",
+      "endTime": "2025-02-14T00:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/savswi"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "120",
+      "homeTeam": {
+        "name": "Ireland",
+        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
+      },
+      "awayTeam": {
+        "name": "Zimbabwe",
+        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
+      },
+      "league": "IRE vs ZIM 2025",
+      "sport": "cricket",
+      "date": "2025-02-06",
+      "time": "1:45 PM",
+      "venue": "Queens Sports Club, Bulawayo",
+      "startTime": "2025-02-06T13:45:00",
+      "endTime": "2025-02-14T00:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/savswi"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "121",
+      "homeTeam": {
+        "name": "Ireland",
+        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
+      },
+      "awayTeam": {
+        "name": "Zimbabwe",
+        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
+      },
+      "league": "IRE vs ZIM 2025",
+      "sport": "cricket",
+      "date": "2025-02-06",
+      "time": "1:45 PM",
+      "venue": "Queens Sports Club, Bulawayo",
+      "startTime": "2025-02-06T13:45:00",
+      "endTime": "2025-02-14T00:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/savswi"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        }
+      ]
+    },
+    {
+      "id": "122",
+      "homeTeam": {
+        "name": "Ireland",
+        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
+      },
+      "awayTeam": {
+        "name": "Zimbabwe",
+        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
+      },
+      "league": "IRE vs ZIM 2025",
+      "sport": "cricket",
+      "date": "2025-02-06",
+      "time": "1:45 PM",
+      "venue": "Queens Sports Club, Bulawayo",
+      "startTime": "2025-02-06T13:45:00",
+      "endTime": "2025-02-14T00:00:00",
+      "streams": [
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://sportsstreaming.live/savswi"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
+        },
+        {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://rips.in/player.php?ch=6"
         }
       ]
     }
+    
+
+
+    
   ]
 }
