@@ -8,7 +8,8 @@
       "author": "John Doe",
       "date": "2023-05-15T09:00:00Z",
       "readTime": "5 min read",
-      "category": "Cricket"
+      "category": "Cricket",
+      "image": "https://www.sportssutra.com/wp-content/uploads/2025/01/How-T20-Cricket-is.jpg"
     },
     {
       "id": "2",
@@ -18,7 +19,8 @@
       "author": "Jane Smith",
       "date": "2023-06-01T14:30:00Z",
       "readTime": "8 min read",
-      "category": "Football"
+      "category": "Football",
+      "image": "https://thefootytipster.com/wp-content/uploads/2024/05/photo-1518091043644-c1d4457512c6-1024x576.webp"
     },
     {
       "id": "3",
@@ -28,7 +30,8 @@
       "author": "Dr. Alex Johnson",
       "date": "2023-06-10T11:15:00Z",
       "readTime": "6 min read",
-      "category": "Sports Psychology"
+      "category": "Sports Psychology",
+      "image": "https://example.com/images/sports-psychology.jpg"
     },
     {
       "id": "4",
@@ -38,7 +41,8 @@
       "author": "Emma Williams",
       "date": "2023-06-20T16:45:00Z",
       "readTime": "7 min read",
-      "category": "Tennis"
+      "category": "Tennis",
+      "image": "https://example.com/images/tennis.jpg"
     },
     {
       "id": "5",
@@ -48,7 +52,8 @@
       "author": "Carlos Mendes",
       "date": "2023-06-25T10:00:00Z",
       "readTime": "6 min read",
-      "category": "Football"
+      "category": "Football",
+      "image": "https://example.com/images/free-kick.jpg"
     }
   ]
 }
