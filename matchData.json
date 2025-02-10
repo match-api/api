@@ -12,11 +12,11 @@
       },
       "league": "IND vs ENG",
       "sport": "cricket",
-      "date": "2025-02-09",
+      "date": "2025-02-12",
       "time": "1:45 PM",
-      "venue": "VCA Stadium",
-      "startTime": "2025-02-09T13:45:00",
-      "endTime": "2025-02-09T23:00:00",
+      "venue": "Narendra Modi Stadium, Ahmedabad",
+      "startTime": "2025-02-12T13:45:00",
+      "endTime": "2025-02-12T23:00:00",
       "streams": [
         {
           "title": "Watch Now",
@@ -68,11 +68,11 @@
       },
       "league": "AUS vs SL",
       "sport": "cricket",
-      "date": "2025-02-06",
-      "time": "10:00 AM",
-      "venue": "Galle International Stadium",
-      "startTime": "2025-02-06T10:00:00",
-      "endTime": "2025-02-13T21:15:00",
+      "date": "2025-02-12",
+      "time": "9:45 AM",
+      "venue": "R. Premadasa Stadium, Colombo",
+      "startTime": "2025-02-12T09:45:00",
+      "endTime": "2025-02-12T18:45:00",
       "streams": [
         {
           "title": "Watch Now",
@@ -109,62 +109,6 @@
           "language": "English",
           "quality": "1080p",
           "url": "https://fc.pstvlive.xyz/w/play.php?id=115616"
-        }
-      ]
-    },
-    {
-      "id": "113",
-      "homeTeam": {
-        "name": "South Africa",
-        "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
-      },
-      "awayTeam": {
-        "name": "New Zealand",
-        "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
-      },
-      "league": "PAK Tri-Series 2025",
-      "sport": "cricket",
-      "date": "2025-02-10",
-      "time": "10:15 AM",
-      "venue": "Gaddafi Stadium, Lahore",
-      "startTime": "2025-02-10T10:15:00",
-      "endTime": "2025-02-10T18:00:00",
-      "streams": [
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=ptvsp"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=osncric"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://fc.mafiatv.live/play.php?id=117417"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://fc.mafiatv.live/play.php?id=117417"
         }
       ]
     },
@@ -277,62 +221,6 @@
           "language": "English",
           "quality": "1080p",
           "url": "/"
-        }
-      ]
-    },
-    {
-      "id": "116",
-      "homeTeam": {
-        "name": "Ireland",
-        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
-      },
-      "awayTeam": {
-        "name": "Zimbabwe",
-        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
-      },
-      "league": "IRE vs ZIM 2025",
-      "sport": "cricket",
-      "date": "2025-02-06",
-      "time": "1:45 PM",
-      "venue": "Queens Sports Club, Bulawayo",
-      "startTime": "2025-02-06T13:45:00",
-      "endTime": "2025-02-14T00:00:00",
-      "streams": [
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=spch80"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://rips.in/player.php?ch=1"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=ptvsp"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://rips.in/player.php?ch=1"
         }
       ]
     },
