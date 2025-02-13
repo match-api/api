@@ -112,71 +112,73 @@
         }
       ]
     },
+   {
+  "id": "114",
+  "homeTeam": {
+    "name": "WPL 2025",
+    "logo": "https://iili.io/2mge2B2.png"
+  },
+  "awayTeam": {
+    "name": "WPL 2025",
+    "logo": "https://iili.io/2mge2B2.png"
+  },
+  "league": "WPL 2025",
+  "sport": "cricket",
+  "date": "2025-02-14",
+  "time": "7:30 PM",
+  "venue": "",
+  "startTime": "2025-02-14T19:30:00",
+  "endTime": "2025-03-15T00:00:00",
+  "streams": [
     {
-      "id": "114",
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "/"
+    },
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "/"
+    },
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://poawooptugroo.com/4/8870617"
+    },
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "/"
+    },
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://poawooptugroo.com/4/8870617"
+    },
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "/"
+    }
+  ]
+},
+
+
+    {
+      "id": "115",
       "homeTeam": {
         "name": "Pakistan",
         "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
       },
       "awayTeam": {
-        "name": "South Africa",
-        "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
-      },
-      "league": "PAK Tri-Series 2025",
-      "sport": "cricket",
-      "date": "2025-02-08",
-      "time": "2:45 PM",
-      "venue": "National Stadium, Karachi",
-      "startTime": "2025-02-12T14:45:00",
-      "endTime": "2025-02-12T21:00:00",
-      "streams": [
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=ptvsp"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=asports"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=tensp"
-        }
-      ]
-    },
-    {
-      "id": "115",
-      "homeTeam": {
-        "name": "TBC F",
-        "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
-      },
-      "awayTeam": {
-        "name": "TBC F",
-        "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
+        "name": "New Zealand",
+        "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
       },
       "league": "PAK Tri-Series 2025",
       "sport": "cricket",
