@@ -186,7 +186,7 @@
       "time": "1:15 PM",
       "venue": "Harare Sports Club, Harare",
       "startTime": "2025-02-14T13:45:00",
-      "endTime": "2025-02-14T20:00:00",
+      "endTime": "2025-02-14T23:00:00",
       "streams": [
         {
           "title": "Watch Now",
@@ -242,7 +242,7 @@
       "time": "1:15 PM",
       "venue": "Harare Sports Club, Harare",
       "startTime": "2025-02-16T13:15:00",
-      "endTime": "2025-02-16T20:00:00",
+      "endTime": "2025-02-16T23:00:00",
       "streams": [
         {
           "title": "Watch Now",
@@ -298,7 +298,7 @@
       "time": "1:15 PM",
       "venue": "Harare Sports Club, Harare",
       "startTime": "2025-02-18T13:15:00",
-      "endTime": "2025-02-18T20:00:00",
+      "endTime": "2025-02-18T23:00:00",
       "streams": [
         {
           "title": "Watch Now",
@@ -517,7 +517,7 @@
     "name": "New Zealand",
     "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-19",
   "time": "2:45 PM",
@@ -543,7 +543,7 @@
     "name": "India",
     "logo": "https://aimages.willow.tv/teamLogos/india.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-20",
   "time": "2:45 PM",
@@ -569,7 +569,7 @@
     "name": "South Africa",
     "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-21",
   "time": "2:45 PM",
@@ -595,7 +595,7 @@
     "name": "England",
     "logo": "https://aimages.willow.tv/teamLogos/england.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-22",
   "time": "2:45 PM",
@@ -621,7 +621,7 @@
     "name": "India",
     "logo": "https://aimages.willow.tv/teamLogos/india.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-23",
   "time": "2:45 PM",
@@ -647,7 +647,7 @@
     "name": "New Zealand",
     "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-24",
   "time": "2:45 PM",
@@ -673,7 +673,7 @@
     "name": "South Africa",
     "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-25",
   "time": "2:45 PM",
@@ -699,7 +699,7 @@
     "name": "England",
     "logo": "https://aimages.willow.tv/teamLogos/england.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-26",
   "time": "2:45 PM",
@@ -725,7 +725,7 @@
     "name": "Bangladesh",
     "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-27",
   "time": "2:45 PM",
@@ -757,7 +757,7 @@
     "name": "Australia",
     "logo": "https://aimages.willow.tv/teamLogos/australia.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-02-28",
   "time": "2:45 PM",
@@ -783,7 +783,7 @@
     "name": "England",
     "logo": "https://aimages.willow.tv/teamLogos/england.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-03-01",
   "time": "2:45 PM",
@@ -809,7 +809,7 @@
     "name": "India",
     "logo": "https://aimages.willow.tv/teamLogos/india.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-03-02",
   "time": "2:45 PM",
@@ -835,7 +835,7 @@
     "name": "TBD",
     "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-03-04",
   "time": "2:45 PM",
@@ -861,7 +861,7 @@
     "name": "TBD",
     "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-03-05",
   "time": "2:45 PM",
@@ -887,7 +887,7 @@
     "name": "TBD",
     "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
   },
-  "league": "ICC Champions Trophy 2025",
+  "league": "ICC Champions Trophy",
   "sport": "cricket",
   "date": "2025-03-09",
   "time": "2:45 PM",
