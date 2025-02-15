@@ -57,62 +57,6 @@
   ]
 },
     {
-      "id": "117",
-      "homeTeam": {
-        "name": "Ireland",
-        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
-      },
-      "awayTeam": {
-        "name": "Zimbabwe",
-        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
-      },
-      "league": "IRE vs ZIM 2025",
-      "sport": "cricket",
-      "date": "2025-02-14",
-      "time": "1:15 PM",
-      "venue": "Harare Sports Club, Harare",
-      "startTime": "2025-02-14T13:45:00",
-      "endTime": "2025-02-14T23:00:00",
-      "streams": [
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=spch80"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=ptvsp"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=spch80"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        }
-      ]
-    },
-    {
       "id": "118",
       "homeTeam": {
         "name": "Ireland",
