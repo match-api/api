@@ -57,25 +57,13 @@
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://match-api.github.io/match/player/id.html?id=https://cdn.hoichoi24.com/StarSports1HD/video.m3u8"
+      "url": "https://match-api.github.io/match/player/id.html?id=https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
     },
     {
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://liv.psplayflix.site/ps/t.php?id=sky2"
-    },
-    {
-      "title": "Watch Now",
-      "language": "English",
-      "quality": "1080p",
-      "url": "https://poawooptugroo.com/4/8870617"
-    },
-    {
-      "title": "Watch Now",
-      "language": "English",
-      "quality": "1080p",
-      "url": "https://match-api.github.io/match/player/id.html?id=https://cdn.hoichoi24.com/SkySportsCricketHD/video.m3u8"
+      "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=3724000.m3u8"
     },
     {
       "title": "Watch Now",
@@ -113,7 +101,7 @@
           "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
-          "url": "http://match-api.github.io/match/player/id.html?id=https://noobmaster.xyz/fancode/global/primary/116938_english_hls_5267ta-no/index.m3u8"
+          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://noobmaster.xyz/fancode/global/primary/116938_english_hls_5267ta-no/index.m3u8"
         },
         {
           "title": "Watch Now",
@@ -125,7 +113,7 @@
           "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
-          "url": "http://match-api.github.io/match/player/id.html?id=https://noobmaster.xyz/fancode/global/primary/116938_english_hls_5267ta-no/index.m3u8"
+          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
         }
       ]
     },
