@@ -685,39 +685,7 @@
     
   ]
 },
-    {
-  "id": "302",
-  "homeTeam": {
-    "name": "Nepal W",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/FLrQ4VpsM5eSQHSadNA0SQ_96x96.png"
-  },
-  "awayTeam": {
-    "name": "Kyrgyzstan W",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/KN-7WnOfDfIicywii8dtzw_96x96.png"
-  },
-  "league": "Four Nations Cup",
-  "sport": "football",
-  "date": "2024-02-17",
-  "time": "6:00 PM",
-  "venue": "Dasharath Rangasala",
-  "startTime": "2025-02-17T18:00:00",
-  "endTime": "2025-02-17T20:30:00",
-  "streams": [
-  {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/DmSmEuDMPpE"
-        },
-    {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/DmSmEuDMPpE"
-        }
-    
-  ]
-},
+   
     {
   "id": "303",
   "homeTeam": {
@@ -812,7 +780,41 @@
   "startTime": "2025-02-26T18:00:00",
   "endTime": "2025-02-26T20:30:00",
   "streams": []
+},
+    {
+  "id": "308",
+  "homeTeam": {
+    "name": "KPL 2025",
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/tbd.png"
+  },
+  "awayTeam": {
+    "name": "KPL 2025",
+    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/tbd.png"
+  },
+  "league": "Koshi Premier League",
+  "sport": "cricket",
+  "date": "2024-02-18",
+  "time": "9:00 AM",
+  "venue": "Every Match Change",
+  "startTime": "2024-02-18T09:00:00",
+  "endTime": "2024-03-01T18:30:00",
+  "streams": [
+{
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff030c31efa3e052d2b041768296da85fd8fe6868ccd7b5f028df7ed54315e7500e25641ab57f9fba0348f41fc2123357b9"
+        },
+    {
+          "title": "Watch Now",
+          "language": "English",
+          "quality": "1080p",
+          "url": "http://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff030c31efa3e052d2b041768296da85fd8fe6868ccd7b5f028df7ed54315e7500e25641ab57f9fba0348f41fc2123357b9"
+        }
+    
+  ]
 }
+
 
 
 
