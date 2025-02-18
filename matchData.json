@@ -22,13 +22,13 @@
           "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff030c31efa3e052d2b041768296da85fd8fe6868ccd7b5f028df7ed54315e7500e25641ab57f9fba0348f41fc2123357b9"
+          "url": "https://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff0f7ee8ce60669d52e1e881ec6e022a42966a4ea892d841d7cdf6d2ec62888cf65b5d78519e4d390fbfbe97a31d3765021"
         },
     {
           "title": "Watch Now",
           "language": "English",
           "quality": "1080p",
-          "url": "http://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff030c31efa3e052d2b041768296da85fd8fe6868ccd7b5f028df7ed54315e7500e25641ab57f9fba0348f41fc2123357b9"
+          "url": "http://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff0f7ee8ce60669d52e1e881ec6e022a42966a4ea892d841d7cdf6d2ec62888cf65b5d78519e4d390fbfbe97a31d3765021"
         }
     
   ]
