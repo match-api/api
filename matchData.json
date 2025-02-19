@@ -1,41 +1,6 @@
 {
   "matches": [
  {
-  "id": "308",
-  "homeTeam": {
-    "name": "KPL 2025",
-    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/Koshi%20Premier%20League,%202025.jpg"
-  },
-  "awayTeam": {
-    "name": "KPL 2025",
-    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/Koshi%20Premier%20League,%202025.jpg"
-  },
-  "league": "Koshi Premier League",
-  "sport": "cricket",
-  "date": "2024-02-18",
-  "time": "9:00 AM",
-  "venue": "Every Match Change",
-  "startTime": "2025-02-18T09:00:00",
-  "endTime": "2025-03-01T18:30:00",
-  "streams": [
-{
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff0f7ee8ce60669d52e1e881ec6e022a42966a4ea892d841d7cdf6d2ec62888cf65b5d78519e4d390fbfbe97a31d3765021"
-        },
-    {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "http://match-api.github.io/match/player/id.html?id=https://psplay.site/fc/w/hls/index.m3u8?id=e4052e64960a483e94fa3532d9d1bb8a32122196d082156f34c2df53db559ff0f7ee8ce60669d52e1e881ec6e022a42966a4ea892d841d7cdf6d2ec62888cf65b5d78519e4d390fbfbe97a31d3765021"
-        }
-    
-  ]
-},
-
-    
-   {
   "id": "114",
   "homeTeam": {
     "name": "WPL 2025",
@@ -79,44 +44,6 @@
     }
   ]
 },
-    {
-      "id": "119",
-      "homeTeam": {
-        "name": "Ireland",
-        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
-      },
-      "awayTeam": {
-        "name": "Zimbabwe",
-        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
-      },
-      "league": "IRE vs ZIM 2025",
-      "sport": "cricket",
-      "date": "2025-02-18",
-      "time": "1:15 PM",
-      "venue": "Harare Sports Club, Harare",
-      "startTime": "2025-02-18T13:15:00",
-      "endTime": "2025-02-18T23:00:00",
-      "streams": [
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://noobmaster.xyz/fancode/global/primary/116938_english_hls_5267ta-no/index.m3u8"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
-        }
-      ]
-    },
     {
       "id": "120",
       "homeTeam": {
@@ -305,10 +232,34 @@
   "endTime": "2025-02-19T22:45:00",
   "streams": [
     {
-          "title": "Watch Now",
+          "title": "Toffe Live",
           "language": "English",
           "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=btsp2"
+          "url": "https://match-api.github.io/match/player/id.html?id=https://xenolive.xyz/toffee/live.php?id=match-2&e=.m3u8"
+        },
+    {
+          "title": "Star Sports 1",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://poawooptugroo.com/4/8870617"
+        },
+        {
+          "title": "Star Hindi",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://match-api.github.io/match/player/id.html?id=https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/chunklist_w1996268691_b596000.m3u8"
+        },
+        {
+          "title": "Willow TV",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://poawooptugroo.com/4/8870617"
+        },
+        {
+          "title": "PTV Sports",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://cinebuzz.netfy.live/crichd/play.php?cricid=ptvpk"
         }
   ]
 },
