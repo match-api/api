@@ -260,12 +260,6 @@
           "language": "English",
           "quality": "1080p",
           "url": "https://cinebuzz.netfy.live/crichd/play.php?cricid=ptvpk"
-        },
-     {
-          "title": "Prime Video",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/drm.html?url=https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd&key=CB8DAF414566AA17D06F8294F3F3B444&key2=89d58908a57d70ef87bf16c9b5821ca2"
         }
     
   ]
