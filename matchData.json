@@ -232,8 +232,8 @@
   "endTime": "2025-02-19T22:45:00",
   "streams": [
     {
-          "title": "Toffe Live",
-          "language": "English",
+          "title": "Sports 18 HD",
+          "language": "Hindi",
           "quality": "1080p",
           "url": "https://match-api.github.io/match/player/id.html?id=https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8"
         },
