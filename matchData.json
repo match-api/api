@@ -260,6 +260,12 @@
           "language": "English",
           "quality": "1080p",
           "url": "https://cinebuzz.netfy.live/crichd/play.php?cricid=ptvpk"
+        },
+    {
+          "title": "PTV Sports",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://match-api.github.io/match/tv/willow.html"
         }
     
   ]
