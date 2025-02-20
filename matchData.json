@@ -212,30 +212,29 @@
         }
       ]
     },
-    
     {
-  "id": "201",
+  "id": "202",
   "homeTeam": {
-    "name": "Pakistan",
-    "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
+    "name": "Bangladesh",
+    "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
   },
   "awayTeam": {
-    "name": "New Zealand",
-    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
+    "name": "India",
+    "logo": "https://aimages.willow.tv/teamLogos/india.png"
   },
   "league": "ICC Champions Trophy",
   "sport": "cricket",
-  "date": "2025-02-19",
+  "date": "2025-02-20",
   "time": "2:45 PM",
-  "venue": "Karachi",
-  "startTime": "2025-02-19T14:45:00",
-  "endTime": "2025-02-19T22:45:00",
+  "venue": "Dubai",
+  "startTime": "2025-02-20T14:45:00",
+  "endTime": "2025-02-20T22:45:00",
   "streams": [
-    {
+   {
           "title": "Sports 18 HD",
           "language": "Hindi",
           "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/id.html?id=https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8"
+          "url": "https://match-api.github.io/match/player/id.html?id=https://toffee.amartechbd.xyz/live.php?id=match-1&e=.m3u8"
         },
     {
           "title": "Star Sports 1",
@@ -271,35 +270,7 @@
           "title": "Sports 18",
           "language": "English",
           "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=3724000.m3u8"
-        }
-    
-    
-  ]
-},
-    {
-  "id": "202",
-  "homeTeam": {
-    "name": "Bangladesh",
-    "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
-  },
-  "awayTeam": {
-    "name": "India",
-    "logo": "https://aimages.willow.tv/teamLogos/india.png"
-  },
-  "league": "ICC Champions Trophy",
-  "sport": "cricket",
-  "date": "2025-02-20",
-  "time": "2:45 PM",
-  "venue": "Dubai",
-  "startTime": "2025-02-20T14:45:00",
-  "endTime": "2025-02-20T22:45:00",
-  "streams": [
-    {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=btsp2"
+          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://hocdn.news/live/skyscric.m3u8"
         }
   ]
 },
