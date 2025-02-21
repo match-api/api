@@ -213,24 +213,24 @@
       ]
     },
     {
-  "id": "202",
+  "id": "203",
   "homeTeam": {
-    "name": "Bangladesh",
-    "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
+    "name": "Afghanistan",
+    "logo": "https://aimages.willow.tv/teamLogos/afghanistan.png"
   },
   "awayTeam": {
-    "name": "India",
-    "logo": "https://aimages.willow.tv/teamLogos/india.png"
+    "name": "South Africa",
+    "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
   },
   "league": "ICC Champions Trophy",
   "sport": "cricket",
-  "date": "2025-02-20",
+  "date": "2025-02-21",
   "time": "2:45 PM",
-  "venue": "Dubai",
-  "startTime": "2025-02-20T14:45:00",
-  "endTime": "2025-02-20T22:45:00",
+  "venue": "Karachi",
+  "startTime": "2025-02-21T14:45:00",
+  "endTime": "2025-02-21T22:45:00",
   "streams": [
-   {
+     {
           "title": "Sports 18 HD",
           "language": "Hindi",
           "quality": "1080p",
@@ -277,32 +277,6 @@
           "language": "English",
           "quality": "1080p",
           "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://hocdn.news/live/skyscric.m3u8"
-        }
-  ]
-},
-    {
-  "id": "203",
-  "homeTeam": {
-    "name": "Afghanistan",
-    "logo": "https://aimages.willow.tv/teamLogos/afghanistan.png"
-  },
-  "awayTeam": {
-    "name": "South Africa",
-    "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
-  },
-  "league": "ICC Champions Trophy",
-  "sport": "cricket",
-  "date": "2025-02-21",
-  "time": "2:45 PM",
-  "venue": "Karachi",
-  "startTime": "2025-02-21T14:45:00",
-  "endTime": "2025-02-21T22:45:00",
-  "streams": [
-    {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=btsp2"
         }
   ]
 },
