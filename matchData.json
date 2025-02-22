@@ -213,24 +213,24 @@
       ]
     },
     {
-  "id": "203",
+  "id": "204",
   "homeTeam": {
-    "name": "Afghanistan",
-    "logo": "https://aimages.willow.tv/teamLogos/afghanistan.png"
+    "name": "Australia",
+    "logo": "https://aimages.willow.tv/teamLogos/australia.png"
   },
   "awayTeam": {
-    "name": "South Africa",
-    "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
+    "name": "England",
+    "logo": "https://aimages.willow.tv/teamLogos/england.png"
   },
   "league": "ICC Champions Trophy",
   "sport": "cricket",
-  "date": "2025-02-21",
+  "date": "2025-02-22",
   "time": "2:45 PM",
-  "venue": "Karachi",
-  "startTime": "2025-02-21T14:45:00",
-  "endTime": "2025-02-21T22:45:00",
+  "venue": "Lahore",
+  "startTime": "2025-02-22T14:45:00",
+  "endTime": "2025-02-22T22:45:00",
   "streams": [
-     {
+    {
           "title": "Sports 18 HD",
           "language": "Hindi",
           "quality": "1080p",
@@ -277,32 +277,6 @@
           "language": "English",
           "quality": "1080p",
           "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://hocdn.news/live/skyscric.m3u8"
-        }
-  ]
-},
-    {
-  "id": "204",
-  "homeTeam": {
-    "name": "Australia",
-    "logo": "https://aimages.willow.tv/teamLogos/australia.png"
-  },
-  "awayTeam": {
-    "name": "England",
-    "logo": "https://aimages.willow.tv/teamLogos/england.png"
-  },
-  "league": "ICC Champions Trophy",
-  "sport": "cricket",
-  "date": "2025-02-22",
-  "time": "2:45 PM",
-  "venue": "Lahore",
-  "startTime": "2025-02-22T14:45:00",
-  "endTime": "2025-02-22T22:45:00",
-  "streams": [
-    {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://cdn.crichdplays.ru/embed2.php?id=btsp2"
         }
   ]
 },
@@ -607,32 +581,6 @@
   ]
 },
     {
-  "id": "304",
-  "homeTeam": {
-    "name": "Lebanon W",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/SVBzrEoo3aCu2Lw2wcv4LQ_96x96.png"
-  },
-  "awayTeam": {
-    "name": "Nepal W",
-    "logo": "https://ssl.gstatic.com/onebox/media/sports/logos/FLrQ4VpsM5eSQHSadNA0SQ_96x96.png"
-  },
-  "league": "Four Nations Cup",
-  "sport": "football",
-  "date": "2024-02-20",
-  "time": "6:00 PM",
-  "venue": "Dasharath Rangasala",
-  "startTime": "2025-02-20T18:00:00",
-  "endTime": "2025-02-20T20:30:00",
-  "streams": [
-    {
-          "title": "Kantipur Max HD",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/E2OigiaBvn4"
-        }
-  ]
-},
-    {
   "id": "305",
   "homeTeam": {
     "name": "Kyrgyzstan W",
@@ -649,7 +597,10 @@
   "venue": "Dasharath Rangasala",
   "startTime": "2025-02-23T14:00:00",
   "endTime": "2025-02-23T16:30:00",
-  "streams": []
+  "streams": [
+
+    
+  ]
 },
     {
   "id": "306",
