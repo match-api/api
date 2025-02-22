@@ -45,62 +45,6 @@
   ]
 },
     {
-      "id": "120",
-      "homeTeam": {
-        "name": "Ireland",
-        "logo": "https://aimages.willow.tv/teamLogos/ireland.png"
-      },
-      "awayTeam": {
-        "name": "Zimbabwe",
-        "logo": "https://aimages.willow.tv/teamLogos/zimbabwe.png"
-      },
-      "league": "IRE vs ZIM 2025",
-      "sport": "cricket",
-      "date": "2025-02-22",
-      "time": "5:15 PM",
-      "venue": "Harare Sports Club, Harare",
-      "startTime": "2025-02-22T17:15:00",
-      "endTime": "2025-02-22T23:00:00",
-      "streams": [
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "#"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "#"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "#"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "#"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "#"
-        },
-        {
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "#"
-        }
-      ]
-    },
-    {
       "id": "121",
       "homeTeam": {
         "name": "Ireland",
@@ -246,7 +190,7 @@
           "title": "Ten Sports",
           "language": "English",
           "quality": "1080p",
-          "url": "https://restreming-content.wuaze.com/nova/player.php?id=Sports18"
+          "url": "https://match-api.github.io/match/player/id.html?id=https://otttv.co.in/cricket/hindi.php?chunks=master_apm_720_3.m3u8"
         },
     {
           "title": "Ten Sports",
