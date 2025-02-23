@@ -22,7 +22,7 @@
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://rips.in/player.php?ch=4"
+      "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://cors-anywhere.ammoapps.com/http://161.248.188.101/Astro_cricket-bdix/index.m3u8"
     },
     {
       "title": "Watch Now",
@@ -40,7 +40,7 @@
       "title": "Watch Now",
       "language": "English",
       "quality": "1080p",
-      "url": "https://match-api.github.io/match/tv/willow.html"
+      "url": "https://rips.in/player.php?ch=4"
     }
   ]
 },
@@ -179,6 +179,12 @@
           "language": "Hindi",
           "quality": "1080p",
           "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://userx534.protect-cdn.net/live/m3-720p.m3u8"
+        },
+     {
+          "title": "Sports 18",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://cors-anywhere.ammoapps.com/https://its-ferdos-alom.top/voood/live.php?ferdos=Sports18_1_HD_voot_MOB&e=.m3u8"
         },
     {
           "title": "Star Sports 1",
