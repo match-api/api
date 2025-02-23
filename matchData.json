@@ -166,7 +166,7 @@
           "title": "Sports 18",
           "language": "English",
           "quality": "1080p",
-          "url": "https://streambtw.com/iframe/cricket.php"
+          "url": "https://match-api.github.io/match/player/ph.html?src=https://streambtw.com/iframe/cricket.php"
         },
     {
           "title": "Star Sports 1",
