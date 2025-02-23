@@ -436,40 +436,20 @@
   },
   "league": "Four Nations Cup",
   "sport": "football",
-  "date": "2024-02-23",
-  "time": "6:00 PM",
-  "venue": "Dasharath Rangasala",
-  "startTime": "2025-02-23T18:00:00",
-  "endTime": "2025-02-23T20:30:00",
-  "streams": [
-{
-          "title": "Watch Now",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/g2N0N4-gK_w"
-        }
-    
-  ]
-},
-    {
-  "id": "307",
-  "homeTeam": {
-    "name": "League Winner",
-    "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
-  },
-  "awayTeam": {
-    "name": "League Runner-Up",
-    "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
-  },
-  "league": "Four Nations Cup",
-  "sport": "football",
   "date": "2024-02-26",
   "time": "6:00 PM",
   "venue": "Dasharath Rangasala",
   "startTime": "2025-02-26T18:00:00",
   "endTime": "2025-02-26T20:30:00",
-  "streams": []
-}
+  "streams": [
+{
+          "title": "Final Match",
+          "language": "English",
+          "quality": "1080p",
+          "url": ""
+        }
+    
+  ]
 
 
 
