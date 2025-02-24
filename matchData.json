@@ -139,24 +139,24 @@
       ]
     },
     {
-  "id": "205",
+  "id": "206",
   "homeTeam": {
-    "name": "Pakistan",
-    "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
+    "name": "Bangladesh",
+    "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
   },
   "awayTeam": {
-    "name": "India",
-    "logo": "https://aimages.willow.tv/teamLogos/india.png"
+    "name": "New Zealand",
+    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
   },
   "league": "ICC Champions Trophy",
   "sport": "cricket",
-  "date": "2025-02-23",
+  "date": "2025-02-24",
   "time": "2:45 PM",
-  "venue": "Dubai",
-  "startTime": "2025-02-23T14:45:00",
-  "endTime": "2025-02-23T22:45:00",
+  "venue": "Rawalpindi",
+  "startTime": "2025-02-24T14:45:00",
+  "endTime": "2025-02-24T22:45:00",
   "streams": [
-     {
+    {
           "title": "Sports 18 HD",
           "language": "Hindi",
           "quality": "1080p",
@@ -210,27 +210,6 @@
           "quality": "1080p",
           "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://hocdn.news/live/skyscric.m3u8"
         }
-  ]
-},
-    {
-  "id": "206",
-  "homeTeam": {
-    "name": "Bangladesh",
-    "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
-  },
-  "awayTeam": {
-    "name": "New Zealand",
-    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
-  },
-  "league": "ICC Champions Trophy",
-  "sport": "cricket",
-  "date": "2025-02-24",
-  "time": "2:45 PM",
-  "venue": "Rawalpindi",
-  "startTime": "2025-02-24T14:45:00",
-  "endTime": "2025-02-24T22:45:00",
-  "streams": [
-   
   ]
 },
     {
