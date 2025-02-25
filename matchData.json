@@ -139,24 +139,24 @@
       ]
     },
     {
-  "id": "206",
+  "id": "207",
   "homeTeam": {
-    "name": "Bangladesh",
-    "logo": "https://aimages.willow.tv/teamLogos/bangladesh.png"
+    "name": "Australia",
+    "logo": "https://aimages.willow.tv/teamLogos/australia.png"
   },
   "awayTeam": {
-    "name": "New Zealand",
-    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
+    "name": "South Africa",
+    "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
   },
   "league": "ICC Champions Trophy",
   "sport": "cricket",
-  "date": "2025-02-24",
+  "date": "2025-02-25",
   "time": "2:45 PM",
   "venue": "Rawalpindi",
-  "startTime": "2025-02-24T14:45:00",
-  "endTime": "2025-02-24T22:45:00",
+  "startTime": "2025-02-25T14:45:00",
+  "endTime": "2025-02-25T22:45:00",
   "streams": [
-    {
+     {
           "title": "Sports 18 HD",
           "language": "Hindi",
           "quality": "1080p",
@@ -210,27 +210,6 @@
           "quality": "1080p",
           "url": "https://match-api.github.io/match/player/ph.html?src=https://embedme.top/embed-mut/alpha/bangladesh-vs-new-zealand/3"
         }
-  ]
-},
-    {
-  "id": "207",
-  "homeTeam": {
-    "name": "Australia",
-    "logo": "https://aimages.willow.tv/teamLogos/australia.png"
-  },
-  "awayTeam": {
-    "name": "South Africa",
-    "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
-  },
-  "league": "ICC Champions Trophy",
-  "sport": "cricket",
-  "date": "2025-02-25",
-  "time": "2:45 PM",
-  "venue": "Rawalpindi",
-  "startTime": "2025-02-25T14:45:00",
-  "endTime": "2025-02-25T22:45:00",
-  "streams": [
-    
   ]
 },
     {
