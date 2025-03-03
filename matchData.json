@@ -45,24 +45,24 @@
   ]
 },
     {
-  "id": "212",
+  "id": "213",
   "homeTeam": {
-    "name": "New Zealand",
-    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
-  },
-  "awayTeam": {
     "name": "India",
     "logo": "https://aimages.willow.tv/teamLogos/india.png"
   },
+  "awayTeam": {
+    "name": "Australia",
+    "logo": "https://aimages.willow.tv/teamLogos/australia.png"
+  },
   "league": "ICC Champions Trophy",
   "sport": "cricket",
-  "date": "2025-03-02",
+  "date": "2025-03-04",
   "time": "2:45 PM",
   "venue": "Dubai",
-  "startTime": "2025-03-02T14:45:00",
-  "endTime": "2025-03-02T22:45:00",
+  "startTime": "2025-03-04T14:45:00",
+  "endTime": "2025-03-04T22:45:00",
   "streams": [
-    {
+     {
           "title": "Sports 18 HD",
           "language": "Hindi",
           "quality": "1080p",
@@ -119,35 +119,14 @@
   ]
 },
     {
-  "id": "213",
-  "homeTeam": {
-    "name": "TBD",
-    "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
-  },
-  "awayTeam": {
-    "name": "TBD",
-    "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
-  },
-  "league": "ICC Champions Trophy",
-  "sport": "cricket",
-  "date": "2025-03-04",
-  "time": "2:45 PM",
-  "venue": "Dubai",
-  "startTime": "2025-03-04T14:45:00",
-  "endTime": "2025-03-04T22:45:00",
-  "streams": [
-    
-  ]
-},
-    {
   "id": "214",
   "homeTeam": {
-    "name": "TBD",
-    "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
+    "name": "South Africa",
+    "logo": "https://aimages.willow.tv/teamLogos/southafrica.png"
   },
   "awayTeam": {
-    "name": "TBD",
-    "logo": "https://cricketvectors.akamaized.net/Teams/CA.png"
+    "name": "New Zealand",
+    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
   },
   "league": "ICC Champions Trophy",
   "sport": "cricket",
