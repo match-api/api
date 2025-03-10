@@ -44,117 +44,6 @@
     }
   ]
 },
-    {
-  "id": "215",
-  "homeTeam": {
-    "name": "New Zealand",
-    "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
-  },
-  "awayTeam": {
-    "name": "India",
-    "logo": "https://aimages.willow.tv/teamLogos/india.png"
-  },
-  "league": "ICC Champions Trophy",
-  "sport": "cricket",
-  "date": "2025-03-09",
-  "time": "2:45 PM",
-  "venue": "Dubai",
-  "startTime": "2025-03-09T14:45:00",
-  "endTime": "2025-03-09T22:45:00",
-  "streams": [
-     {
-          "title": "Sports 18 HD",
-          "language": "Hindi",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://sedgbvx2.protect-hls.net/live/m3-index.m3u8"
-        },
-     {
-          "title": "Sports 18",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://fclembed.online/hembedplayer/csstream1/1/960/540"
-        },
-    {
-          "title": "Star Sports 1",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://amartechbd.xyz/toffeebd/?play=match-1"
-        },
-        {
-          "title": "Ten Sports",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/drm.html?url=https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd&key=9872e439f21f4a299cab249c6554daa3&key2=0cdfcfe0d0f1fbe100554ce3ef4c4665"
-        },
-    {
-          "title": "Ten Sports",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://wiki2new.iosplayer.ru/wiki2/wikicric1/mono.m3u8"
-        },
-        {
-          "title": "Willow TV",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        },
-        {
-          "title": "PTV Sports",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://streamtp3.com/global1.php?stream=skycricket"
-        },
-    {
-          "title": "Willow TV 2",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/id.html?id=https://c4s22.vfruitfairy.com/com1/index.m3u8"
-        },
-    {
-          "title": "Sports 18",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://match-api.github.io/match/player/id.html?id=https://tx2.nexgen.bz:4000//ESPN/index.m3u8"
-        }
-
-    
-  ]
-},
-  {
-    "id": "217",
-    "homeTeam": {
-      "name": "Uganda Women",
-      "logo": "https://aimages.willow.tv/teamLogos/uganda.png"
-    },
-    "awayTeam": {
-      "name": "Nepal Women",
-      "logo": "https://aimages.willow.tv/teamLogos/nepal.png"
-    },
-    "league": "Women’s Cricket",
-    "sport": "cricket",
-    "date": "2025-03-09",
-    "time": "12:45 PM",
-    "venue": "Entebbe Cricket Oval, Entebbe",
-    "startTime": "2025-03-09T12:45:00",
-    "endTime": "2025-03-09T18:45:00",
-    "streams": [
- {
-          "title": "Willow TV",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://www.youtube.com/embed/t6PFDJbcB9g"
-        },
-       {
-          "title": "ICC TV",
-          "language": "English",
-          "quality": "1080p",
-          "url": "https://poawooptugroo.com/4/8870617"
-        }
-
-
-      
-    ]
-  },
   {
     "id": "218",
     "homeTeam": {
@@ -172,7 +61,20 @@
     "venue": "Entebbe Cricket Oval, Entebbe",
     "startTime": "2025-03-10T16:45:00",
     "endTime": "2025-03-10T22:45:00",
-    "streams": []
+    "streams": [
+       {
+          "title": "Willow TV",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://www.youtube.com/embed/t6PFDJbcB9g"
+        },
+       {
+          "title": "ICC TV",
+          "language": "English",
+          "quality": "1080p",
+          "url": "https://poawooptugroo.com/4/8870617"
+        }
+    ]
   },
   {
     "id": "219",
