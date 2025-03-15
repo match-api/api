@@ -43,8 +43,1935 @@
       "url": "https://rips.in/player.php?ch=4"
     }
   ]
+},
+     {
+    "id": "1",
+    "homeTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "awayTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-22",
+    "time": "7:30 PM",
+    "venue": "Kolkata",
+    "startTime": "2025-03-22T19:30:00",
+    "endTime": "2025-03-22T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "homeTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "awayTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-23",
+    "time": "3:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-03-23T15:30:00",
+    "endTime": "2025-03-23T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-23",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-03-23T19:30:00",
+    "endTime": "2025-03-23T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "homeTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "awayTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-24",
+    "time": "7:30 PM",
+    "venue": "Visakhapatnam",
+    "startTime": "2025-03-24T19:30:00",
+    "endTime": "2025-03-24T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "homeTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "awayTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-25",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "startTime": "2025-03-25T19:30:00",
+    "endTime": "2025-03-25T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "homeTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "awayTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-26",
+    "time": "7:30 PM",
+    "venue": "Guwahati",
+    "startTime": "2025-03-26T19:30:00",
+    "endTime": "2025-03-26T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "homeTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "awayTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-27",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-03-27T19:30:00",
+    "endTime": "2025-03-27T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-28",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-03-28T19:30:00",
+    "endTime": "2025-03-28T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "homeTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "awayTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-29",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "startTime": "2025-03-29T19:30:00",
+    "endTime": "2025-03-29T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "homeTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "awayTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-30",
+    "time": "3:30 PM",
+    "venue": "Visakhapatnam",
+    "startTime": "2025-03-30T15:30:00",
+    "endTime": "2025-03-30T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "homeTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "awayTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-30",
+    "time": "7:30 PM",
+    "venue": "Guwahati",
+    "startTime": "2025-03-30T19:30:00",
+    "endTime": "2025-03-30T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "homeTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "awayTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-03-31",
+    "time": "7:30 PM",
+    "venue": "Mumbai",
+    "startTime": "2025-03-31T19:30:00",
+    "endTime": "2025-03-31T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "homeTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "awayTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-01",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "startTime": "2025-04-01T19:30:00",
+    "endTime": "2025-04-01T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "homeTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "awayTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-02",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "startTime": "2025-04-02T19:30:00",
+    "endTime": "2025-04-02T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+    {
+    "id": "15",
+    "homeTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "awayTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-03",
+    "time": "7:30 PM",
+    "venue": "Kolkata",
+    "startTime": "2025-04-03T19:30:00",
+    "endTime": "2025-04-03T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "homeTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "awayTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-04",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "startTime": "2025-04-04T19:30:00",
+    "endTime": "2025-04-04T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-05",
+    "time": "3:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-04-05T15:30:00",
+    "endTime": "2025-04-05T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "homeTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "awayTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-05",
+    "time": "7:30 PM",
+    "venue": "New Chandigarh",
+    "startTime": "2025-04-05T19:30:00",
+    "endTime": "2025-04-05T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "homeTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "awayTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-06",
+    "time": "3:30 PM",
+    "venue": "Kolkata",
+    "startTime": "2025-04-06T15:30:00",
+    "endTime": "2025-04-06T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "homeTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "awayTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-06",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-04-06T19:30:00",
+    "endTime": "2025-04-06T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "homeTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "awayTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-07",
+    "time": "7:30 PM",
+    "venue": "Mumbai",
+    "startTime": "2025-04-07T19:30:00",
+    "endTime": "2025-04-07T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "homeTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "awayTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-08",
+    "time": "7:30 PM",
+    "venue": "New Chandigarh",
+    "startTime": "2025-04-08T19:30:00",
+    "endTime": "2025-04-08T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "homeTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "awayTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-09",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "startTime": "2025-04-09T19:30:00",
+    "endTime": "2025-04-09T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "homeTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "awayTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-10",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "startTime": "2025-04-10T19:30:00",
+    "endTime": "2025-04-10T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-11",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-04-11T19:30:00",
+    "endTime": "2025-04-11T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+    {
+    "id": "26",
+    "homeTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "awayTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-12",
+    "time": "3:30 PM",
+    "venue": "Lucknow",
+    "startTime": "2025-04-12T15:30:00",
+    "endTime": "2025-04-12T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "homeTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "awayTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-12",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-04-12T19:30:00",
+    "endTime": "2025-04-12T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "homeTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "awayTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-13",
+    "time": "3:30 PM",
+    "venue": "Jaipur",
+    "startTime": "2025-04-13T15:30:00",
+    "endTime": "2025-04-13T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "homeTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "awayTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-13",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "startTime": "2025-04-13T19:30:00",
+    "endTime": "2025-04-13T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "homeTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "awayTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-14",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "startTime": "2025-04-14T19:30:00",
+    "endTime": "2025-04-14T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "homeTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "awayTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-15",
+    "time": "7:30 PM",
+    "venue": "New Chandigarh",
+    "startTime": "2025-04-15T19:30:00",
+    "endTime": "2025-04-15T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "homeTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "awayTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-16",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "startTime": "2025-04-16T19:30:00",
+    "endTime": "2025-04-16T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "homeTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "awayTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-17",
+    "time": "7:30 PM",
+    "venue": "Mumbai",
+    "startTime": "2025-04-17T19:30:00",
+    "endTime": "2025-04-17T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "homeTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "awayTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-18",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "startTime": "2025-04-18T19:30:00",
+    "endTime": "2025-04-18T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "homeTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "awayTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-19",
+    "time": "3:30 PM",
+    "venue": "Ahmedabad",
+    "startTime": "2025-04-19T15:30:00",
+    "endTime": "2025-04-19T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "homeTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "awayTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-19",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "startTime": "2025-04-19T19:30:00",
+    "endTime": "2025-04-19T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "homeTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "awayTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-20",
+    "time": "3:30 PM",
+    "venue": "New Chandigarh",
+    "startTime": "2025-04-20T15:30:00",
+    "endTime": "2025-04-20T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+    {
+    "id": "38",
+    "homeTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "awayTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-20",
+    "time": "7:30 PM",
+    "venue": "Mumbai",
+    "startTime": "2025-04-20T19:30:00",
+    "endTime": "2025-04-20T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "homeTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "awayTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-21",
+    "time": "7:30 PM",
+    "venue": "Kolkata",
+    "startTime": "2025-04-21T19:30:00",
+    "endTime": "2025-04-21T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "homeTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "awayTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-22",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "startTime": "2025-04-22T19:30:00",
+    "endTime": "2025-04-22T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "homeTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "awayTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-23",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-04-23T19:30:00",
+    "endTime": "2025-04-23T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "homeTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "awayTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-24",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "startTime": "2025-04-24T19:30:00",
+    "endTime": "2025-04-24T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-25",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-04-25T19:30:00",
+    "endTime": "2025-04-25T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "homeTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "awayTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-26",
+    "time": "7:30 PM",
+    "venue": "Kolkata",
+    "startTime": "2025-04-26T19:30:00",
+    "endTime": "2025-04-26T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "homeTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "awayTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-27",
+    "time": "3:30 PM",
+    "venue": "Mumbai",
+    "startTime": "2025-04-27T15:30:00",
+    "endTime": "2025-04-27T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "homeTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "awayTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-27",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "startTime": "2025-04-27T19:30:00",
+    "endTime": "2025-04-27T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "homeTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "awayTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-28",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "startTime": "2025-04-28T19:30:00",
+    "endTime": "2025-04-28T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "homeTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "awayTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-29",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "startTime": "2025-04-29T19:30:00",
+    "endTime": "2025-04-29T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-04-30",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-04-30T19:30:00",
+    "endTime": "2025-04-30T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "homeTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "awayTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-01",
+    "time": "7:30 PM",
+    "venue": "Jaipur",
+    "startTime": "2025-05-01T19:30:00",
+    "endTime": "2025-05-01T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "homeTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "awayTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-02",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "startTime": "2025-05-02T19:30:00",
+    "endTime": "2025-05-02T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+      {
+    "id": "52",
+    "homeTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "awayTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-03",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "startTime": "2025-05-03T19:30:00",
+    "endTime": "2025-05-03T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "homeTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "awayTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-04",
+    "time": "3:30 PM",
+    "venue": "Kolkata",
+    "startTime": "2025-05-04T15:30:00",
+    "endTime": "2025-05-04T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "homeTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "awayTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-04",
+    "time": "7:30 PM",
+    "venue": "Dharamshala",
+    "startTime": "2025-05-04T19:30:00",
+    "endTime": "2025-05-04T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "homeTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "awayTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-05",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-05-05T19:30:00",
+    "endTime": "2025-05-05T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "homeTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "awayTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-06",
+    "time": "7:30 PM",
+    "venue": "Mumbai",
+    "startTime": "2025-05-06T19:30:00",
+    "endTime": "2025-05-06T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-07",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-05-07T19:30:00",
+    "endTime": "2025-05-07T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "homeTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "awayTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-08",
+    "time": "7:30 PM",
+    "venue": "Dharamshala",
+    "startTime": "2025-05-08T19:30:00",
+    "endTime": "2025-05-08T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "homeTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "awayTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-09",
+    "time": "7:30 PM",
+    "venue": "Lucknow",
+    "startTime": "2025-05-09T19:30:00",
+    "endTime": "2025-05-09T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "homeTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "awayTeam": {
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-10",
+    "time": "7:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-05-10T19:30:00",
+    "endTime": "2025-05-10T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "homeTeam": {
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+    },
+    "awayTeam": {
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-11",
+    "time": "3:30 PM",
+    "venue": "Dharamshala",
+    "startTime": "2025-05-11T15:30:00",
+    "endTime": "2025-05-11T19:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "homeTeam": {
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+    },
+    "awayTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-11",
+    "time": "7:30 PM",
+    "venue": "Delhi",
+    "startTime": "2025-05-11T19:30:00",
+    "endTime": "2025-05-11T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "homeTeam": {
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+    },
+    "awayTeam": {
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-12",
+    "time": "7:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-05-12T19:30:00",
+    "endTime": "2025-05-12T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "homeTeam": {
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+    },
+    "awayTeam": {
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-13",
+    "time": "7:30 PM",
+    "venue": "Bengaluru",
+    "startTime": "2025-05-13T19:30:00",
+    "endTime": "2025-05-13T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "homeTeam": {
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+    },
+    "awayTeam": {
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+    },
+    "league": "TATA IPL 2025",
+    "sport": "cricket",
+    "date": "2025-05-14",
+    "time": "7:30 PM",
+    "venue": "Ahmedabad",
+    "startTime": "2025-05-14T19:30:00",
+    "endTime": "2025-05-14T23:00:00",
+    "streams": [
+      {
+        "title": "Watch Now",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+      }
+    ]
+  },
+    {
+  "id": "66",
+  "homeTeam": {
+    "name": "MI",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+  },
+  "awayTeam": {
+    "name": "DC",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-15",
+  "time": "7:30 PM",
+  "venue": "Mumbai",
+  "startTime": "2025-05-15T19:30:00",
+  "endTime": "2025-05-15T23:00:00",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "67",
+  "homeTeam": {
+    "name": "RR",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+  },
+  "awayTeam": {
+    "name": "PBKS",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-16",
+  "time": "7:30 PM",
+  "venue": "Jaipur",
+  "startTime": "2025-05-16T19:30:00",
+  "endTime": "2025-05-16T23:00:00",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "68",
+  "homeTeam": {
+    "name": "RCB",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RCB.avif"
+  },
+  "awayTeam": {
+    "name": "KKR",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-17",
+  "time": "7:30 PM",
+  "venue": "Bengaluru",
+  "startTime": "2025-05-17T19:30:00",
+  "endTime": "2025-05-17T23:00:00",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "69",
+  "homeTeam": {
+    "name": "GT",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+  },
+  "awayTeam": {
+    "name": "CSK",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-18",
+  "time": "3:30 PM",
+  "venue": "Ahmedabad",
+  "startTime": "2025-05-18T15:30:00",
+  "endTime": "2025-05-18T19:00:00",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "70",
+  "homeTeam": {
+    "name": "LSG",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+  },
+  "awayTeam": {
+    "name": "SRH",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-18",
+  "time": "7:30 PM",
+  "venue": "Lucknow",
+  "startTime": "2025-05-18T19:30:00",
+  "endTime": "2025-05-18T23:00:00",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "71",
+  "homeTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "awayTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-20",
+  "time": "7:30 PM",
+  "venue": "Hyderabad",
+  "startTime": "2025-05-20T19:30:00",
+  "endTime": "2025-05-20T23:00:00",
+  "matchType": "Qualifier 1",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "72",
+  "homeTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "awayTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-21",
+  "time": "7:30 PM",
+  "venue": "Hyderabad",
+  "startTime": "2025-05-21T19:30:00",
+  "endTime": "2025-05-21T23:00:00",
+  "matchType": "Eliminator",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "73",
+  "homeTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "awayTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-23",
+  "time": "7:30 PM",
+  "venue": "Kolkata",
+  "startTime": "2025-05-23T19:30:00",
+  "endTime": "2025-05-23T23:00:00",
+  "matchType": "Qualifier 2",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
+},
+{
+  "id": "74",
+  "homeTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "awayTeam": {
+    "name": "TBD",
+    "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/IPL.avif"
+  },
+  "league": "TATA IPL 2025",
+  "sport": "cricket",
+  "date": "2025-05-25",
+  "time": "7:30 PM",
+  "venue": "Kolkata",
+  "startTime": "2025-05-25T19:30:00",
+  "endTime": "2025-05-25T23:00:00",
+  "matchType": "Final",
+  "streams": [
+    {
+      "title": "Watch Now",
+      "language": "English",
+      "quality": "1080p",
+      "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
+    }
+  ]
 }
-
 
 
 
