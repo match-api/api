@@ -158,7 +158,7 @@
         "title": "IPL 2025",
         "language": "English",
         "quality": "1080p",
-        "url": "https://tv.mgsportstv.com/api/player/play.php?c=https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742826049~acl=%2f*~data=hdntl~hmac=c11ee061a794b3e74cf86f9450737291890584aef22d75190715f6e2dcf6a47d/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=3728000.m3u8"
+        "url": "https://iframv2.embedxt.site/iframe/frame.php"
       },
        {
         "title": "Hindi - IPL 2025",
