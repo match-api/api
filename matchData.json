@@ -136,23 +136,23 @@
       }
     ]
   },
- {
-    "id": "1",
+  {
+    "id": "2",
     "homeTeam": {
-      "name": "KKR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
     },
     "awayTeam": {
-      "name": "RCB",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/rcb.avif"
+      "name": "RR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-03-22",
-    "time": "7:30 PM",
-    "venue": "Kolkata",
-    "startTime": "2025-03-22T19:30:00",
-    "endTime": "2025-03-22T23:00:00",
+    "date": "2025-03-23",
+    "time": "3:30 PM",
+    "venue": "Hyderabad",
+    "startTime": "2025-03-23T15:30:00",
+    "endTime": "2025-03-23T19:00:00",
     "streams": [
      {
         "title": "KKR vs RCB",
@@ -201,32 +201,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://cdn.crichdplays.ru/embed2.php?id=willow"
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "homeTeam": {
-      "name": "SRH",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
-    },
-    "awayTeam": {
-      "name": "RR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-03-23",
-    "time": "3:30 PM",
-    "venue": "Hyderabad",
-    "startTime": "2025-03-23T15:30:00",
-    "endTime": "2025-03-23T19:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
