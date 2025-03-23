@@ -137,74 +137,6 @@
     ]
   },
   {
-    "id": "2",
-    "homeTeam": {
-      "name": "SRH",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
-    },
-    "awayTeam": {
-      "name": "RR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-03-23",
-    "time": "3:30 PM",
-    "venue": "Hyderabad",
-    "startTime": "2025-03-23T15:30:00",
-    "endTime": "2025-03-23T19:45:00",
-    "streams": [
-     {
-        "title": "KKR vs RCB",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/plyr.io.html?url=https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/index.m3u8?hdnea=exp=1742736468~acl=/*~hmac=077e55538282153869f349eb01de9b35c6ada14068448cc77560d3eb2b666f39&by=riyaz"
-      },
-       {
-        "title": "Hindi - KKR vs RCB",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://whoushex.top/4/8870617"
-      },
-      {
-        "title": "Hindi - KKR vs RCB",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://iframv2.embedxt.site/iframe/frame.php"
-      },
-       {
-        "title": "All - KKR vs RCB",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp3"
-      },
-      {
-        "title": "Star Sports 1 HD",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://vimeo.com/event/5009577/embed"
-      },
-       {
-        "title": "Android - KKR vs RCB",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://whoushex.top/4/8870617"
-      },
-      {
-        "title": "PC/Laptop - KKR vs RCB ",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8"
-      },
-       {
-        "title": "Willow TV",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=willow"
-      }
-    ]
-  },
-  {
     "id": "3",
     "homeTeam": {
       "name": "CSK",
@@ -226,7 +158,7 @@
         "title": "IPL 2025",
         "language": "English",
         "quality": "1080p",
-        "url": "https://tv.bdixtv24.co/ayna/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1"
+        "url": "https://tv.mgsportstv.com/api/player/play.php?c=https://v18tataplaysyndication.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output03/hdntl=exp=1742826049~acl=%2f*~data=hdntl~hmac=c11ee061a794b3e74cf86f9450737291890584aef22d75190715f6e2dcf6a47d/Sports18_1_HD_voot_MOB-audio_108038_eng=108000-video=3728000.m3u8"
       },
        {
         "title": "Hindi - IPL 2025",
