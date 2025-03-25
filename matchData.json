@@ -19,17 +19,23 @@
     "endTime": "2025-03-21T21:15:00",
     "streams": [
       {
-        "title": "PTV Sports",
+        "title": "Star Sports 3",
         "language": "English",
         "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/https://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"
+        "url": "https://tv2.mgsportstv.com/Player/mid22.html?id=4251492"
       },
        {
-        "title": "PTV Sports",
+        "title": "IND vs BAN",
         "language": "English",
         "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/http://c3s2.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8"
-      } 
+        "url": "https://whoushex.top/4/8870617"
+      },
+       {
+        "title": "Nepal vs Malaysia",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://whoushex.top/4/8870617"
+      }
     ]
   },
   {
@@ -51,16 +57,22 @@
     "endTime": "2025-03-21T21:45:00"
      "streams": [
       {
-        "title": "PTV Sports",
+        "title": "Nepal vs Malaysia",
         "language": "English",
         "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/https://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"
+        "url": "https://tv2.mgsportstv.com/Player/mid22.html?id=4251556"
       },
        {
-        "title": "PTV Sports",
+        "title": "Nepal vs Malaysia",
         "language": "English",
         "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/http://c3s2.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8"
+        "url": "https://whoushex.top/4/8870617"
+      },
+        {
+        "title": "Nepal vs Malaysia",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://whoushex.top/4/8870617"
       } 
     ]
   },
