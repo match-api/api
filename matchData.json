@@ -187,22 +187,22 @@
     ]
   },
   {
-    "id": "4",
+    "id": "5",
     "homeTeam": {
-      "name": "DC",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
     },
     "awayTeam": {
-      "name": "LSG",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+      "name": "PBKS",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-03-24",
+    "date": "2025-03-25",
     "time": "7:30 PM",
-    "venue": "Visakhapatnam",
-    "startTime": "2025-03-24T19:30:00",
-    "endTime": "2025-03-24T23:00:00",
+    "venue": "Ahmedabad",
+    "startTime": "2025-03-25T19:30:00",
+    "endTime": "2025-03-25T23:00:00",
     "streams": [
        {
         "title": "IPL 2025",
@@ -251,32 +251,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://cdn.crichdplays.ru/embed2.php?id=willow"
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "homeTeam": {
-      "name": "GT",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
-    },
-    "awayTeam": {
-      "name": "PBKS",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-03-25",
-    "time": "7:30 PM",
-    "venue": "Ahmedabad",
-    "startTime": "2025-03-25T19:30:00",
-    "endTime": "2025-03-25T23:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
