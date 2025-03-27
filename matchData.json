@@ -109,6 +109,12 @@
         "quality": "1080p",
         "url": "https://match-api.github.io/match/player/id.html?id=https://9361edfe-185f-40b2-8656-2f450faeef7c.deepnoteproject.com/api/starhindi.m3u8"
       },
+      {
+        "title": "Hindi - IPL 2025",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://match-api.github.io/match/player/id.html?id=https://tvs2.aynaott.com/ssport1hd/index.m3u8?token=5f6fa8465ffec8bd418171c978c8ce58b09bba83-5490e81a7ea51268d748470122e43148-1743084430-1743083530&remote=no_check_ip"
+      },
        {
         "title": "Hindi - IPL 2025",
         "language": "English",
