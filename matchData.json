@@ -1,38 +1,6 @@
 {
   "matches": [
   {
-    "id": "229",
-    "homeTeam": {
-      "name": "Pakistan",
-      "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
-    },
-    "awayTeam": {
-      "name": "New Zealand",
-      "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
-    },
-    "league": "PAK vs NZ 2025",
-    "sport": "cricket",
-    "date": "2025-03-26",
-    "time": "11:45 AM",
-    "venue": "Sky Stadium, Wellington",
-    "startTime": "2025-03-26T11:45:00",
-    "endTime": "2025-03-26T15:45:00",
-    "streams": [
-      {
-        "title": "PTV Sports",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/https://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"
-      },
-       {
-        "title": "PTV Sports",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/http://c3s2.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8"
-      }
-    ]
-  },
-  {
     "id": "230",
     "homeTeam": {
       "name": "Pakistan",
@@ -50,11 +18,17 @@
     "startTime": "2025-03-29T03:45:00",
     "endTime": "2025-03-29T07:45:00",
     "streams": [
-      {
+       {
         "title": "PTV Sports",
         "language": "English",
         "quality": "1080p",
-        "url": "https://www.ptvsports.pk/live"
+        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/https://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"
+      },
+       {
+        "title": "PTV Sports",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/http://c3s2.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8"
       }
     ]
   },
@@ -110,25 +84,26 @@
       }
     ]
   },
+
   {
-    "id": "6",
+    "id": "7",
     "homeTeam": {
-      "name": "RR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
     },
     "awayTeam": {
-      "name": "KKR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-03-26",
+    "date": "2025-03-27",
     "time": "7:30 PM",
-    "venue": "Guwahati",
-    "startTime": "2025-03-26T19:30:00",
-    "endTime": "2025-03-26T23:00:00",
+    "venue": "Hyderabad",
+    "startTime": "2025-03-27T19:30:00",
+    "endTime": "2025-03-27T23:00:00",
     "streams": [
-       {
+     {
         "title": "IPL 2025",
         "language": "English",
         "quality": "1080p",
@@ -175,32 +150,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://cdn.crichdplays.ru/embed2.php?id=willow"
-      }
-    ]
-  },
-  {
-    "id": "7",
-    "homeTeam": {
-      "name": "SRH",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
-    },
-    "awayTeam": {
-      "name": "LSG",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-03-27",
-    "time": "7:30 PM",
-    "venue": "Hyderabad",
-    "startTime": "2025-03-27T19:30:00",
-    "endTime": "2025-03-27T23:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
