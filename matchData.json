@@ -84,26 +84,25 @@
       }
     ]
   },
-
   {
-    "id": "7",
+    "id": "8",
     "homeTeam": {
-      "name": "SRH",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
     },
     "awayTeam": {
-      "name": "LSG",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/rcb.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-03-27",
+    "date": "2025-03-28",
     "time": "7:30 PM",
-    "venue": "Hyderabad",
-    "startTime": "2025-03-27T19:30:00",
-    "endTime": "2025-03-27T23:00:00",
+    "venue": "Chennai",
+    "startTime": "2025-03-28T19:30:00",
+    "endTime": "2025-03-28T23:00:00",
     "streams": [
-     {
+      {
         "title": "IPL 2025",
         "language": "English",
         "quality": "1080p",
@@ -162,32 +161,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://cdn.crichdplays.ru/embed2.php?id=willow"
-      }
-    ]
-  },
-  {
-    "id": "8",
-    "homeTeam": {
-      "name": "CSK",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
-    },
-    "awayTeam": {
-      "name": "RCB",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/rcb.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-03-28",
-    "time": "7:30 PM",
-    "venue": "Chennai",
-    "startTime": "2025-03-28T19:30:00",
-    "endTime": "2025-03-28T23:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://go.arena.im/embed?publisher=kasin-tv&event=XF8ClUl&v=2"
       }
     ]
   },
