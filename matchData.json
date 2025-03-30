@@ -60,24 +60,24 @@
   },
 
   {
-    "id": "9",
+    "id": "10",
     "homeTeam": {
-      "name": "GT",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
     },
     "awayTeam": {
-      "name": "MI",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-03-29",
-    "time": "7:30 PM",
-    "venue": "Ahmedabad",
-    "startTime": "2025-03-29T19:30:00",
-    "endTime": "2025-03-29T23:00:00",
+    "date": "2025-03-30",
+    "time": "3:30 PM",
+    "venue": "Visakhapatnam",
+    "startTime": "2025-03-30T15:30:00",
+    "endTime": "2025-03-30T19:00:00",
     "streams": [
-      {
+       {
         "title": "IPL 2025",
         "language": "English",
         "quality": "1080p",
@@ -144,36 +144,10 @@
         "url": "https://tv.bdixtv24.co/sports/sportstv.php?c=star1in"
       },
       {
-        "title": "Willow TV",
+        "title": "Star Sports",
         "language": "English",
         "quality": "1080p",
         "url": "https://tv.bdixtv24.co/daddy/play.php?play=598"
-      }
-    ]
-  },
-  {
-    "id": "10",
-    "homeTeam": {
-      "name": "DC",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
-    },
-    "awayTeam": {
-      "name": "SRH",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-03-30",
-    "time": "3:30 PM",
-    "venue": "Visakhapatnam",
-    "startTime": "2025-03-30T15:30:00",
-    "endTime": "2025-03-30T19:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
