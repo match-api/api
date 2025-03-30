@@ -76,12 +76,6 @@
     "startTime": "2025-03-30T19:30:00",
     "endTime": "2025-03-30T23:00:00",
     "streams": [
-       {
-        "title": "IPL 2025",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://002.fclplayer.online/live/csstream1/chunklist.m3u8?vidictid=201774862075&id=1001"
-      },
       {
         "title": "Hindi - IPL 2025",
         "language": "English",
