@@ -59,24 +59,24 @@
     ]
   },
   {
-    "id": "11",
+    "id": "12",
     "homeTeam": {
-      "name": "RR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/RR.avif"
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
     },
     "awayTeam": {
-      "name": "CSK",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-03-30",
+    "date": "2025-03-31",
     "time": "7:30 PM",
-    "venue": "Guwahati",
-    "startTime": "2025-03-30T19:30:00",
-    "endTime": "2025-03-30T23:00:00",
+    "venue": "Mumbai",
+    "startTime": "2025-03-31T19:30:00",
+    "endTime": "2025-03-31T23:00:00",
     "streams": [
-      {
+     {
         "title": "Hindi - IPL 2025",
         "language": "English",
         "quality": "1080p",
@@ -141,32 +141,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://match-api.github.io/match/player/id.html?id=https://funn-g1163.huibo.tv/GPA/H911/chunks.m3u8?p=48&cf=1743328810&d=&ip=126.115.249.216&e=1743929410&h=1f0d9032f939d991458a84a91d7cd91e"
-      }
-    ]
-  },
-  {
-    "id": "12",
-    "homeTeam": {
-      "name": "MI",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
-    },
-    "awayTeam": {
-      "name": "KKR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-03-31",
-    "time": "7:30 PM",
-    "venue": "Mumbai",
-    "startTime": "2025-03-31T19:30:00",
-    "endTime": "2025-03-31T23:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
