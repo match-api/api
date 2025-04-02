@@ -67,7 +67,7 @@
       "name": "Nepal U19",
       "logo": "https://aimages.willow.tv/teamLogos/nepal.png"
     },
-    "league": "Youth ODI",
+    "league": "𝗔𝗙𝗚 𝗧𝗼𝘂𝗿 𝗼𝗳 𝗡𝗘𝗣",
     "sport": "cricket",
     "date": "2025-04-03",
     "time": "9:15 AM",
@@ -86,7 +86,7 @@
       "name": "Nepal U19",
       "logo": "https://aimages.willow.tv/teamLogos/nepal.png"
     },
-    "league": "Youth ODI",
+    "league": "𝗔𝗙𝗚 𝗧𝗼𝘂𝗿 𝗼𝗳 𝗡𝗘𝗣",
     "sport": "cricket",
     "date": "2025-04-06",
     "time": "9:15 AM",
@@ -105,7 +105,7 @@
       "name": "Nepal U19",
       "logo": "https://aimages.willow.tv/teamLogos/nepal.png"
     },
-    "league": "Youth ODI",
+    "league": "𝗔𝗙𝗚 𝗧𝗼𝘂𝗿 𝗼𝗳 𝗡𝗘𝗣",
     "sport": "cricket",
     "date": "2025-04-09",
     "time": "9:15 AM",
@@ -113,38 +113,6 @@
     "startTime": "2025-04-09T09:15:00",
     "endTime": "2025-04-09T13:15:00",
     "streams": []
-  },
-  {
-    "id": "231",
-    "homeTeam": {
-      "name": "Pakistan",
-      "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
-    },
-    "awayTeam": {
-      "name": "New Zealand",
-      "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
-    },
-    "league": "PAK vs NZ 2025",
-    "sport": "cricket",
-    "date": "2025-04-02",
-    "time": "3:45 AM",
-    "venue": "Seddon Park, Hamilton",
-    "startTime": "2025-04-02T03:45:00",
-    "endTime": "2025-04-02T09:45:00",
-    "streams": [
-      {
-        "title": "PTV Sports",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/https://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"
-      },
-       {
-        "title": "PTV Sports",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/http://c3s2.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8"
-      }
-    ]
   },
   {
     "id": "232",
@@ -168,7 +136,13 @@
         "title": "PTV Sports",
         "language": "English",
         "quality": "1080p",
-        "url": "https://www.ptvsports.pk/live"
+        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/https://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"
+      },
+       {
+        "title": "PTV Sports",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/http://c3s2.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8"
       }
     ]
   },
@@ -254,7 +228,7 @@
         "title": "PC/Laptop - IPL 2025 ",
         "language": "English",
         "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://tvs2.aynaott.com/tsportshd/index.m3u8?token=47f9beb651c20fd85ace4c4ca9ac1a6b0e8b6ed1-36b1d58483737ca9261a799e41549714-1743519298-1743518398&remote=no_check_ip"
+        "url": "https://match-api.github.io/match/player/id.html?id=https://9361edfe-185f-40b2-8656-2f450faeef7c.deepnoteproject.com/api/fox501.m3u8"
       },
        {
         "title": "Willow TV",
