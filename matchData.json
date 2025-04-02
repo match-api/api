@@ -59,22 +59,22 @@
     ]
   },
   {
-    "id": "13",
+    "id": "14",
     "homeTeam": {
-      "name": "LSG",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+      "name": "RCB",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/rcb.avif"
     },
     "awayTeam": {
-      "name": "PBKS",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/PBKS.avif"
+      "name": "GT",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-04-01",
+    "date": "2025-04-02",
     "time": "7:30 PM",
-    "venue": "Lucknow",
-    "startTime": "2025-04-01T19:30:00",
-    "endTime": "2025-04-01T23:00:00",
+    "venue": "Bengaluru",
+    "startTime": "2025-04-02T19:30:00",
+    "endTime": "2025-04-02T23:00:00",
     "streams": [
       {
         "title": "Hindi - IPL 2025",
@@ -159,32 +159,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://match-api.github.io/match/player/id.html?id=https://9361edfe-185f-40b2-8656-2f450faeef7c.deepnoteproject.com/api/fox501.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "14",
-    "homeTeam": {
-      "name": "RCB",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/rcb.avif"
-    },
-    "awayTeam": {
-      "name": "GT",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-04-02",
-    "time": "7:30 PM",
-    "venue": "Bengaluru",
-    "startTime": "2025-04-02T19:30:00",
-    "endTime": "2025-04-02T23:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
