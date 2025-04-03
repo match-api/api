@@ -58,40 +58,6 @@
     "streams": []
   },
   {
-    "id": "235",
-    "homeTeam": {
-      "name": "Afghanistan U19",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/afg.png"
-    },
-    "awayTeam": {
-      "name": "Nepal U19",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/nep.png"
-    },
-    "league": "𝗔𝗙𝗚 𝗧𝗼𝘂𝗿 𝗼𝗳 𝗡𝗘𝗣",
-    "sport": "cricket",
-    "date": "2025-04-03",
-    "time": "9:15 AM",
-    "venue": "Mulpani Cricket Ground",
-    "startTime": "2025-04-03T09:15:00",
-    "endTime": "2025-04-03T13:15:00",
-    "streams": [
-       {
-        "title": "CAN YT",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://www.youtube.com/embed/dFu7kcaqeOo"
-      },
-       {
-        "title": "CAN YT",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://whoushex.top/4/8870617"
-      }
-
-      
-    ]
-  },
-  {
     "id": "236",
     "homeTeam": {
       "name": "Afghanistan U19",
@@ -108,7 +74,20 @@
     "venue": "Mulpani Cricket Ground",
     "startTime": "2025-04-06T09:15:00",
     "endTime": "2025-04-06T13:15:00",
-    "streams": []
+    "streams": [
+      {
+        "title": "CAN YT",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://www.youtube.com/embed/dFu7kcaqeOo"
+      },
+       {
+        "title": "CAN YT",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://whoushex.top/4/8870617"
+      }
+    ]
   },
   {
     "id": "237",
@@ -161,25 +140,25 @@
       }
     ]
   },
-  {
-    "id": "14",
+    {
+    "id": "15",
     "homeTeam": {
-      "name": "RCB",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/rcb.avif"
+      "name": "KKR",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
     },
     "awayTeam": {
-      "name": "GT",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/GT.avif"
+      "name": "SRH",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-04-02",
+    "date": "2025-04-03",
     "time": "7:30 PM",
-    "venue": "Bengaluru",
-    "startTime": "2025-04-02T19:30:00",
-    "endTime": "2025-04-02T23:00:00",
+    "venue": "Kolkata",
+    "startTime": "2025-04-03T19:30:00",
+    "endTime": "2025-04-03T23:00:00",
     "streams": [
-      {
+       {
         "title": "Hindi - IPL 2025",
         "language": "English",
         "quality": "1080p",
@@ -262,32 +241,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://match-api.github.io/match/player/id.html?id=https://9361edfe-185f-40b2-8656-2f450faeef7c.deepnoteproject.com/api/fox501.m3u8"
-      }
-    ]
-  },
-    {
-    "id": "15",
-    "homeTeam": {
-      "name": "KKR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
-    },
-    "awayTeam": {
-      "name": "SRH",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-04-03",
-    "time": "7:30 PM",
-    "venue": "Kolkata",
-    "startTime": "2025-04-03T19:30:00",
-    "endTime": "2025-04-03T23:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
