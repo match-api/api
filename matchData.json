@@ -74,7 +74,22 @@
     "venue": "Mulpani Cricket Ground",
     "startTime": "2025-04-03T09:15:00",
     "endTime": "2025-04-03T13:15:00",
-    "streams": []
+    "streams": [
+       {
+        "title": "CAN YT",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://www.youtube.com/embed/dFu7kcaqeOo"
+      },
+       {
+        "title": "CAN YT",
+        "language": "English",
+        "quality": "1080p",
+        "url": "https://whoushex.top/4/8870617"
+      }
+
+      
+    ]
   },
   {
     "id": "236",
