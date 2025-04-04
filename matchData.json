@@ -140,25 +140,25 @@
       }
     ]
   },
-    {
-    "id": "15",
+  {
+    "id": "16",
     "homeTeam": {
-      "name": "KKR",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/KKR.avif"
+      "name": "LSG",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
     },
     "awayTeam": {
-      "name": "SRH",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/SRH.avif"
+      "name": "MI",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-04-03",
+    "date": "2025-04-04",
     "time": "7:30 PM",
-    "venue": "Kolkata",
-    "startTime": "2025-04-03T19:30:00",
-    "endTime": "2025-04-03T23:00:00",
+    "venue": "Lucknow",
+    "startTime": "2025-04-04T19:30:00",
+    "endTime": "2025-04-04T23:00:00",
     "streams": [
-       {
+      {
         "title": "Hindi - IPL 2025",
         "language": "English",
         "quality": "1080p",
@@ -241,32 +241,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://match-api.github.io/match/player/id.html?id=https://re.fredflix.fun/playlist/f1e1b6c8-9a1b-492d-bdf9-b63295e6073e/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "id": "16",
-    "homeTeam": {
-      "name": "LSG",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
-    },
-    "awayTeam": {
-      "name": "MI",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-04-04",
-    "time": "7:30 PM",
-    "venue": "Lucknow",
-    "startTime": "2025-04-04T19:30:00",
-    "endTime": "2025-04-04T23:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
