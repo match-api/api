@@ -109,38 +109,6 @@
     "streams": []
   },
   {
-    "id": "001",
-    "homeTeam": {
-      "name": "Pakistan",
-      "logo": "https://aimages.willow.tv/teamLogos/pakistan.png"
-    },
-    "awayTeam": {
-      "name": "New Zealand",
-      "logo": "https://aimages.willow.tv/teamLogos/newzealand.png"
-    },
-    "league": "PAK vs NZ 2025",
-    "sport": "cricket",
-    "date": "2025-04-05",
-    "time": "3:45 AM",
-    "venue": "Bay Oval, Mount Maunganui",
-    "startTime": "2025-04-05T03:45:00",
-    "endTime": "2025-04-05T07:45:00",
-    "streams": [
-      {
-        "title": "PTV Sports",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/https://live.incableinternet.com/v/LqwCElBS83g_2.m3u8"
-      },
-       {
-        "title": "PTV Sports",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://cors-anywhere.ammoapps.com/http://c3s2.vfruitfairy.com/com3/tracks-v1a1/mono.m3u8"
-      }
-    ]
-  },
-  {
     "id": "17",
     "homeTeam": {
       "name": "CSK",
@@ -186,19 +154,19 @@
         "title": "Hindi - IPL 2025",
         "language": "English",
         "quality": "1080p",
-        "url": "https://live.starsports.news/lunar-ipl-hindi"
+        "url": "https://match-api.github.io/match/player/id.html?id=https://tvs1.aynaott.com/sports18/index.m3u8?token=cf623a7a51dd2b5dfff37067524694cfe9975447-87d99fa5ccd166b93fce935f45349e6d-1743858310-1743857410&remote=no_check_ip"
       },
       {
         "title": "Hindi - IPL 2025",
         "language": "English",
         "quality": "1080p",
-        "url": "https://match-api.github.io/match/player/id.html?id=https://streamapip.vercel.app/stream/xfireflix/fc95d30e-5323-4c12-bb38-7a1e3f04acc2.m3u8"
+        "url": "https://bsports.moviesflixter.com/IDRM/willowipl.php"
       },
       {
         "title": "Hindi - IPL 2025",
         "language": "English",
         "quality": "1080p",
-        "url": "https://iframv2.embedxt.site/iframe/frame.php"
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=willowextra"
       },
        {
         "title": "All - IPL 2025",
@@ -240,7 +208,7 @@
         "title": "Star Sports",
         "language": "English",
         "quality": "1080p",
-        "url": "https://embedme.top/embed/alpha/lucknow-super-giants-vs-mumbai-indians/1"
+        "url": "https://cdn.crichdplays.ru/embed2.php?id=skysp2"
       }
     ]
   },
