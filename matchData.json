@@ -141,24 +141,24 @@
     ]
   },
   {
-    "id": "16",
+    "id": "17",
     "homeTeam": {
-      "name": "LSG",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/LSG.avif"
+      "name": "CSK",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
     },
     "awayTeam": {
-      "name": "MI",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/MI.avif"
+      "name": "DC",
+      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
     },
     "league": "TATA IPL 2025",
     "sport": "cricket",
-    "date": "2025-04-04",
-    "time": "7:30 PM",
-    "venue": "Lucknow",
-    "startTime": "2025-04-04T19:30:00",
-    "endTime": "2025-04-04T23:00:00",
+    "date": "2025-04-05",
+    "time": "3:30 PM",
+    "venue": "Chennai",
+    "startTime": "2025-04-05T15:30:00",
+    "endTime": "2025-04-05T19:00:00",
     "streams": [
-      {
+    {
         "title": "Hindi - IPL 2025",
         "language": "English",
         "quality": "1080p",
@@ -241,32 +241,6 @@
         "language": "English",
         "quality": "1080p",
         "url": "https://embedme.top/embed/alpha/lucknow-super-giants-vs-mumbai-indians/1"
-      }
-    ]
-  },
-  {
-    "id": "17",
-    "homeTeam": {
-      "name": "CSK",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/CSK.avif"
-    },
-    "awayTeam": {
-      "name": "DC",
-      "logo": "https://upload-cloudfalre-r2-assets.omrecipes.dev/DC.avif"
-    },
-    "league": "TATA IPL 2025",
-    "sport": "cricket",
-    "date": "2025-04-05",
-    "time": "3:30 PM",
-    "venue": "Chennai",
-    "startTime": "2025-04-05T15:30:00",
-    "endTime": "2025-04-05T19:00:00",
-    "streams": [
-      {
-        "title": "Watch Now",
-        "language": "English",
-        "quality": "1080p",
-        "url": "https://cdn.crichdplays.ru/embed2.php?id=starsp"
       }
     ]
   },
